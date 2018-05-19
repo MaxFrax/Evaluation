@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:j.0="http://www.w3.org/2004/02/skos/core#"
+   xmlns:j.1="http://erlangen-crm.org/current/"
+   xmlns:j.2="http://collection.britishmuseum.org/id/ontology/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/67490/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6581/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/5889/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/person-institution/37">
+    <j.0:inScheme rdf:resource="http://collection.britishart.yale.edu/id/thesauri/person-institution/"/>
+    <j.1:P100i_died_in rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37/death"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <j.2:PX_nationality rdf:resource="http://collection.britishart.yale.edu/id/thesauri/nationality/british"/>
+    <rdf:type rdf:resource="http://erlangen-crm.org/current/E21_Person"/>
+    <j.1:P98i_was_born rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37/birth"/>
+    <j.0:prefLabel>George Romney</j.0:prefLabel>
+    <j.2:PX_gender rdf:resource="http://collection.britishart.yale.edu/id/thesauri/gender/male"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6579/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/3279/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6886/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/68609/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/5885/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6387/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6385/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/68699/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6794/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6687/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6888/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/3296/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/68684/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/68689/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/68593/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6685/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/5891/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/68597/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/5898/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/68685/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6594/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/3287/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/5897/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6692/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/67499/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6786/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6690/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6578/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6380/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6609/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6693/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/5787/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6708/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/68580/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/68686/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/68680/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6590/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/67493/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/3283/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/68590/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/3284/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/3309/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6599/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/67494/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6382/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6783/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6378/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/68695/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6681/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/5888/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6694/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6596/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6608/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/3280/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6393/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6778/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/66778/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6781/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/68698/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6592/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6386/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/68596/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/data/person-institution/37">
+    <foaf:primaryTopic rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+    <rdfs:label>RDF description of </rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/68586/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6688/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6588/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6691/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6785/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/68584/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6699/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/68585/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/67492/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/5784/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6789/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/68582/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6791/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/68598/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6696/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6593/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/3293/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/5788/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6796/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6598/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/68679/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/67489/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6793/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6784/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/5789/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/5892/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/3278/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6008/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/68594/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/68578/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/3298/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/68608/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6597/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/5792/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6979/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/3294/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6589/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/3292/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6682/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/68694/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/3291/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/67498/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/5786/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6787/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6683/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/5899/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6795/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6680/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/5908/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/5893/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/68687/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6709/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6698/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/68682/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/68688/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/3281/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/68691/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/68595/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/5999/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6584/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/68583/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/68693/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/68581/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/68681/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/67686/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6388/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/5890/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/67491/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6779/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6391/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/3288/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6384/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6798/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/68692/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6797/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/3286/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6586/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6580/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/67495/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6392/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/5895/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6582/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6679/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/3299/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6394/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6686/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/68690/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/68588/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6790/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/68587/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/68678/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/5998/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6583/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6390/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6799/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/67496/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6788/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/68599/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/68591/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6591/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6695/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/3282/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/5791/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6684/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6697/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/3308/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/5909/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6782/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6780/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/68592/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/68697/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/68589/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/5887/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6009/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6792/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/3290/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/3285/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/5896/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/68696/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/67497/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/3297/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/3289/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6678/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6587/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6389/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/3295/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/6585/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/68683/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/68579/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/67685/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/37"/>
+  </rdf:Description>
+</rdf:RDF>

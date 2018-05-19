@@ -1,0 +1,835 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:bibo="http://purl.org/ontology/bibo/"
+   xmlns:bio="http://purl.org/vocab/bio/0.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:gvp="http://vocab.getty.edu/ontology#"
+   xmlns:prov="http://www.w3.org/ns/prov#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:schema="http://schema.org/"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:skosxl="http://www.w3.org/2008/05/skos-xl#"
+   xmlns:void="http://rdfs.org/ns/void#"
+>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5500039116">
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Create"/>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1990-04-06T00:00:00</prov:startedAtTime>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <dc:type>created</dc:type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/500014103">
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2002-11-11T15:19:45</dct:modified>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5508700067"/>
+    <skosxl:prefLabel rdf:resource="http://vocab.getty.edu/ulan/term/1500039630"/>
+    <skos:altLabel>John Sell Cotman</skos:altLabel>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-02-18T12:04:08</dct:modified>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5500039114"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5503867612"/>
+    <skos:altLabel>Cottman</skos:altLabel>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5500039117"/>
+    <skosxl:altLabel rdf:resource="http://vocab.getty.edu/ulan/term/1500947571"/>
+    <rdfs:label>Cotman</rdfs:label>
+    <gvp:ulan1512_parent_of rdf:resource="http://vocab.getty.edu/ulan/500010274"/>
+    <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1990-02-01T00:00:00</dct:created>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5500039114"/>
+    <gvp:ulan1512_parent_of rdf:resource="http://vocab.getty.edu/ulan/500008129"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100042617"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5503218070"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5501691555"/>
+    <rdfs:label>Cotman, J. S.</rdfs:label>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5502234539"/>
+    <prov:wasGeneratedBy rdf:resource="http://vocab.getty.edu/ulan/rev/5500039115"/>
+    <skos:altLabel>Cotman</skos:altLabel>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-10-20T13:16:49</dct:modified>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5508700067"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100156698-subject-500014103"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000189"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-11-05T08:01:55</dct:modified>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2003-09-25T14:04:34</dct:modified>
+    <skos:related rdf:resource="http://vocab.getty.edu/ulan/500014104"/>
+    <dc:identifier>500014103</dc:identifier>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100042297"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000002"/>
+    <skos:scopeNote rdf:resource="http://vocab.getty.edu/ulan/scopeNote/32385"/>
+    <gvp:ulan1532_uncle-aunt_of rdf:resource="http://vocab.getty.edu/ulan/500014104"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5504297686"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5501691556"/>
+    <rdfs:label>Cottman, John Sell</rdfs:label>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000001"/>
+    <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1990-04-06T00:00:00</dct:created>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5507691820"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-06-16T04:00:55</dct:modified>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5501549219"/>
+    <gvp:agentType rdf:resource="http://vocab.getty.edu/aat/300025136"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5508225702"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5503218070"/>
+    <skos:mappingRelation rdf:resource="http://vocab.getty.edu/ulan/500014103"/>
+    <skos:altLabel>J. tell Cotman</skos:altLabel>
+    <skosxl:altLabel rdf:resource="http://vocab.getty.edu/ulan/term/1500039633"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5504297686"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100149014-subject-500014103"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5508225682"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5500039116"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-03-09T14:09:13</dct:modified>
+    <skos:closeMatch rdf:resource="http://vocab.getty.edu/ulan/500014103"/>
+    <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1990-05-05T00:00:00</dct:created>
+    <gvp:broaderPreferredExtended rdf:resource="http://vocab.getty.edu/ulan/500000002"/>
+    <rdfs:label>John Sell Cotman</rdfs:label>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5501691558"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5508225685"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100156593-subject-500014103"/>
+    <skos:altLabel>Cotsman</skos:altLabel>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5500039113"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5502234539"/>
+    <gvp:broader rdf:resource="http://vocab.getty.edu/ulan/500000002"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100042266"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2008-08-16T11:24:38</dct:modified>
+    <rdfs:seeAlso rdf:resource="http://www.getty.edu/vow/ULANFullDisplay?find=&amp;role=&amp;nation=&amp;subjectid=500014103"/>
+    <gvp:agentType rdf:resource="http://vocab.getty.edu/aat/300025103"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-03-20T15:43:31</dct:modified>
+    <skosxl:altLabel rdf:resource="http://vocab.getty.edu/ulan/term/1500760346"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/scopeNote/32385"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000008"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5505271688"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5500039117"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5500039116"/>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">38602</gvp:displayOrder>
+    <gvp:agentTypeNonPreferred rdf:resource="http://vocab.getty.edu/aat/300025123"/>
+    <gvp:agentType rdf:resource="http://vocab.getty.edu/aat/300025174"/>
+    <rdfs:label>Cotsman</rdfs:label>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100157668"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2004-04-29T10:16:07</dct:modified>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5500039118"/>
+    <rdf:type rdf:resource="http://vocab.getty.edu/ontology#Subject"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5501691554"/>
+    <rdfs:label>J. tell Cotman</rdfs:label>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000016"/>
+    <foaf:focus rdf:resource="http://vocab.getty.edu/ulan/500014103-agent"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5507691820"/>
+    <prov:wasGeneratedBy rdf:resource="http://vocab.getty.edu/ulan/rev/5500039117"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000003"/>
+    <skos:related rdf:resource="http://vocab.getty.edu/ulan/500008129"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100043316"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5508225702"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-11-02T10:40:47</dct:modified>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5508225695"/>
+    <gvp:broaderInstantialExtended rdf:resource="http://vocab.getty.edu/ulan/500000002"/>
+    <rdf:type rdf:resource="http://vocab.getty.edu/ontology#PersonConcept"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5508225684"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100046495"/>
+    <void:inDataset rdf:resource="http://vocab.getty.edu/dataset/ulan"/>
+    <gvp:parentString>Persons, Artists</gvp:parentString>
+    <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1989-12-22T00:00:00</dct:created>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5508687365"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5505518307"/>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n50018169"/>
+    <dct:license rdf:resource="http://opendatacommons.org/licenses/by/1.0/"/>
+    <gvp:agentTypeNonPreferred rdf:resource="http://vocab.getty.edu/aat/300025164"/>
+    <skos:exactMatch rdf:resource="http://vocab.getty.edu/ulan/500014103"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100047587"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5504297688"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5501549218"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5502518230"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000130"/>
+    <skos:inScheme rdf:resource="http://vocab.getty.edu/ulan/"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5508225695"/>
+    <skos:prefLabel>Cotman, John Sell</skos:prefLabel>
+    <gvp:agentTypeNonPreferred rdf:resource="http://vocab.getty.edu/aat/300236992"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5501549218"/>
+    <rdfs:label>Cottman</rdfs:label>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-06-16T04:00:52</dct:modified>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5508225682"/>
+    <rdfs:label>Cotman, John Sell</rdfs:label>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5505518307"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5508687365"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5501691555"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5500039118"/>
+    <gvp:parentStringAbbrev>Persons, Artists</gvp:parentStringAbbrev>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-02-18T12:04:05</dct:modified>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2003-09-25T14:11:23</dct:modified>
+    <skosxl:altLabel rdf:resource="http://vocab.getty.edu/ulan/term/1500947574"/>
+    <gvp:broaderPreferred rdf:resource="http://vocab.getty.edu/ulan/500000002"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100158442"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100153979"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5501691554"/>
+    <skos:closeMatch rdf:resource="http://id.loc.gov/authorities/names/n50018169"/>
+    <cc:license rdf:resource="http://opendatacommons.org/licenses/by/1.0/"/>
+    <skosxl:altLabel rdf:resource="http://vocab.getty.edu/ulan/term/1500947572"/>
+    <skosxl:altLabel rdf:resource="http://vocab.getty.edu/ulan/term/1500039631"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5500039113"/>
+    <skosxl:altLabel rdf:resource="http://vocab.getty.edu/ulan/term/1500039632"/>
+    <skos:related rdf:resource="http://vocab.getty.edu/ulan/500121798"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5500039115"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5505518315"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100045787"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5508225685"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5504297688"/>
+    <gvp:agentType rdf:resource="http://vocab.getty.edu/aat/300236992"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-10-20T13:16:48</dct:modified>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000012"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000256"/>
+    <skos:altLabel>Cottman, John Sell</skos:altLabel>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5501549219"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2004-09-28T14:25:38</dct:modified>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100154640"/>
+    <skos:altLabel>Cotman, J. S.</skos:altLabel>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5501691556"/>
+    <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1990-01-05T00:00:00</dct:created>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000005"/>
+    <gvp:broaderExtended rdf:resource="http://vocab.getty.edu/ulan/500000002"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5508225683"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5508225684"/>
+    <gvp:agentTypeNonPreferred rdf:resource="http://vocab.getty.edu/aat/300025136"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5502518230"/>
+    <skos:altLabel>Cotsman, John Sell</skos:altLabel>
+    <gvp:agentTypePreferred rdf:resource="http://vocab.getty.edu/aat/300025103"/>
+    <prov:wasGeneratedBy rdf:resource="http://vocab.getty.edu/ulan/rev/5500039114"/>
+    <gvp:prefLabelGVP rdf:resource="http://vocab.getty.edu/ulan/term/1500039630"/>
+    <skos:mappingRelation rdf:resource="http://id.loc.gov/authorities/names/n50018169"/>
+    <gvp:ulan1101_teacher_of rdf:resource="http://vocab.getty.edu/ulan/500121798"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-11-02T12:36:45</dct:modified>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5503867612"/>
+    <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1990-05-16T00:00:00</dct:created>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000013"/>
+    <prov:wasGeneratedBy rdf:resource="http://vocab.getty.edu/ulan/rev/5500039118"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5505518315"/>
+    <gvp:agentType rdf:resource="http://vocab.getty.edu/aat/300025123"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100039894"/>
+    <gvp:agentTypeNonPreferred rdf:resource="http://vocab.getty.edu/aat/300025174"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5508225683"/>
+    <rdfs:label>Cotsman, John Sell</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skosxl:altLabel rdf:resource="http://vocab.getty.edu/ulan/term/1500947573"/>
+    <skos:related rdf:resource="http://vocab.getty.edu/ulan/500010274"/>
+    <prov:wasGeneratedBy rdf:resource="http://vocab.getty.edu/ulan/rev/5500039113"/>
+    <gvp:broaderInstantial rdf:resource="http://vocab.getty.edu/ulan/500000002"/>
+    <gvp:agentType rdf:resource="http://vocab.getty.edu/aat/300025164"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100041256"/>
+    <prov:wasGeneratedBy rdf:resource="http://vocab.getty.edu/ulan/rev/5500039116"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5505271688"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2003-09-25T14:10:46</dct:modified>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5501691558"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5500039115"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/term/1500947572">
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">7</gvp:displayOrder>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <gvp:term>Cotsman</gvp:term>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <dc:identifier>1500947572</dc:identifier>
+    <gvp:historicFlag rdf:resource="http://vocab.getty.edu/historic/localUse"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100043316"/>
+    <gvp:contributorNonPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <skosxl:literalForm>Cotsman</skosxl:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rel/500014103-agentType-300025103">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement"/>
+    <rdf:predicate rdf:resource="http://vocab.getty.edu/ontology#agentTypePreferred"/>
+    <rdf:object rdf:resource="http://vocab.getty.edu/aat/300025103"/>
+    <rdf:subject rdf:resource="http://vocab.getty.edu/ulan/500014103"/>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">1</gvp:displayOrder>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5500039117">
+    <dc:type>created</dc:type>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1989-12-22T00:00:00</prov:startedAtTime>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Create"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/term/1500039631">
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <dc:identifier>1500039631</dc:identifier>
+    <gvp:contributorNonPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100039894"/>
+    <skosxl:literalForm>Cotsman, John Sell</skosxl:literalForm>
+    <gvp:contributorNonPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000013"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100042266"/>
+    <gvp:sourceNonPreferred rdf:resource="http://vocab.getty.edu/ulan/source/2100039894"/>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">3</gvp:displayOrder>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000013"/>
+    <gvp:term>Cotsman, John Sell</gvp:term>
+    <gvp:termFlag rdf:resource="http://vocab.getty.edu/term/flag/Vernacular"/>
+    <gvp:sourceNonPreferred rdf:resource="http://vocab.getty.edu/ulan/source/2100042266"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/term/1500039630">
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000013"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000005"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000016"/>
+    <gvp:contributorPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000005"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000002"/>
+    <gvp:term>Cotman, John Sell</gvp:term>
+    <gvp:contributorPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000003"/>
+    <gvp:contributorPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000001"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000130"/>
+    <gvp:contributorPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <gvp:sourcePreferred rdf:resource="http://vocab.getty.edu/ulan/source/2100156698-term-1500039630"/>
+    <gvp:sourcePreferred rdf:resource="http://vocab.getty.edu/ulan/source/2100043316"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100042658"/>
+    <gvp:contributorPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000002"/>
+    <skosxl:literalForm>Cotman, John Sell</skosxl:literalForm>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000012"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100045787"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100149014-term-1500039630"/>
+    <gvp:sourcePreferred rdf:resource="http://vocab.getty.edu/ulan/source/2100158442"/>
+    <gvp:contributorPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000016"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100154640"/>
+    <gvp:contributorPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000013"/>
+    <gvp:sourcePreferred rdf:resource="http://vocab.getty.edu/ulan/source/2100042658"/>
+    <dc:identifier>1500039630</dc:identifier>
+    <gvp:termDisplay rdf:resource="http://vocab.getty.edu/term/display/Indexing"/>
+    <gvp:contributorPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000189"/>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">1</gvp:displayOrder>
+    <gvp:contributorPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000008"/>
+    <gvp:contributorPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000130"/>
+    <gvp:termFlag rdf:resource="http://vocab.getty.edu/term/flag/Vernacular"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100153979"/>
+    <gvp:contributorPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000012"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100156698-term-1500039630"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100043316"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000001"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000003"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000189"/>
+    <gvp:sourcePreferred rdf:resource="http://vocab.getty.edu/ulan/source/2100149014-term-1500039630"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000008"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100158442"/>
+    <gvp:sourcePreferred rdf:resource="http://vocab.getty.edu/ulan/source/2100154640"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5501691558">
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500014103"/>
+    <dc:type>updated</dc:type>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2003-09-25T14:11:23</prov:startedAtTime>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/term/1500039633">
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <gvp:contributorNonPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000013"/>
+    <gvp:sourceNonPreferred rdf:resource="http://vocab.getty.edu/ulan/source/2100043316"/>
+    <dc:identifier>1500039633</dc:identifier>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <gvp:termFlag rdf:resource="http://vocab.getty.edu/term/flag/Vernacular"/>
+    <gvp:sourceNonPreferred rdf:resource="http://vocab.getty.edu/ulan/source/2100039894"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100039894"/>
+    <skosxl:literalForm>John Sell Cotman</skosxl:literalForm>
+    <gvp:termDisplay rdf:resource="http://vocab.getty.edu/term/display/Display"/>
+    <gvp:contributorNonPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100043316"/>
+    <gvp:term>John Sell Cotman</gvp:term>
+    <gvp:sourceNonPreferred rdf:resource="http://vocab.getty.edu/ulan/source/2100042266"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000013"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100042266"/>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">2</gvp:displayOrder>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5508225695">
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-10-20T13:16:48</prov:startedAtTime>
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500014103"/>
+    <dc:description>Language: English (70051)</dc:description>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <dc:type>note updated</dc:type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5508700067">
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500014103"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <dc:type>note updated</dc:type>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-11-02T12:36:45</prov:startedAtTime>
+    <dc:description>Language: English (70051)</dc:description>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rel/500014103-agentType-300025123">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement"/>
+    <rdf:predicate rdf:resource="http://vocab.getty.edu/ontology#agentTypeNonPreferred"/>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">5</gvp:displayOrder>
+    <rdf:object rdf:resource="http://vocab.getty.edu/aat/300025123"/>
+    <rdf:subject rdf:resource="http://vocab.getty.edu/ulan/500014103"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5500039118">
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Create"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <dc:type>created</dc:type>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1990-05-16T00:00:00</prov:startedAtTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/bio/4000201896">
+    <schema:deathPlace rdf:resource="http://vocab.getty.edu/tgn/7011781-place"/>
+    <gvp:estEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1842-01-01</gvp:estEnd>
+    <rdf:type rdf:resource="http://vocab.getty.edu/ontology#Biography"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000013"/>
+    <gvp:estStart rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1782-01-01</gvp:estStart>
+    <schema:description>English painter and etcher, 1782-1842</schema:description>
+    <schema:gender rdf:resource="http://vocab.getty.edu/aat/300189559"/>
+    <schema:birthPlace rdf:resource="http://vocab.getty.edu/tgn/7012005-place"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rel/500014103-ulan1512_parent_of-500008129">
+    <rdf:predicate rdf:resource="http://vocab.getty.edu/ontology#ulan1512_parent_of"/>
+    <rdf:subject rdf:resource="http://vocab.getty.edu/ulan/500014103"/>
+    <rdf:object rdf:resource="http://vocab.getty.edu/ulan/500008129"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/source/2100156593-subject-500014103">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/DocumentPart"/>
+    <dct:isPartOf rdf:resource="http://vocab.getty.edu/ulan/source/2100156593"/>
+    <bibo:locator>LOC ID: n50018169</bibo:locator>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/term/1500039632">
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000013"/>
+    <gvp:term>Cottman, John Sell</gvp:term>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100039894"/>
+    <gvp:sourceNonPreferred rdf:resource="http://vocab.getty.edu/ulan/source/2100039894"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <dc:identifier>1500039632</dc:identifier>
+    <gvp:contributorNonPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <gvp:termFlag rdf:resource="http://vocab.getty.edu/term/flag/Vernacular"/>
+    <gvp:sourceNonPreferred rdf:resource="http://vocab.getty.edu/ulan/source/2100042266"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <gvp:contributorNonPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000013"/>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">4</gvp:displayOrder>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100042266"/>
+    <skosxl:literalForm>Cottman, John Sell</skosxl:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/bio/4000036136">
+    <schema:gender rdf:resource="http://vocab.getty.edu/aat/300189559"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000001"/>
+    <gvp:estEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1842-01-01</gvp:estEnd>
+    <rdf:type rdf:resource="http://vocab.getty.edu/ontology#Biography"/>
+    <gvp:estStart rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1782-01-01</gvp:estStart>
+    <schema:description>British artist, 1782-1842</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/term/1500760346">
+    <gvp:term>Cotman, J. S.</gvp:term>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <dc:identifier>1500760346</dc:identifier>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">5</gvp:displayOrder>
+    <skosxl:literalForm>Cotman, J. S.</skosxl:literalForm>
+    <gvp:contributorNonPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000012"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000012"/>
+    <gvp:sourceNonPreferred rdf:resource="http://vocab.getty.edu/ulan/source/2100149014-term-1500760346"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100149014-term-1500760346"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5501691554">
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+    <dc:type>relation added</dc:type>
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500014103"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2003-09-25T14:04:34</prov:startedAtTime>
+    <dc:description>Cotman, John Sell (500014103) 'uncle of' Cotman, Frederik George (500040659);</dc:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/source/2100149014-term-1500039630">
+    <dct:isPartOf rdf:resource="http://vocab.getty.edu/ulan/source/2100149014"/>
+    <bibo:locator>n 50018169</bibo:locator>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/DocumentPart"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/source/2100149014-term-1500760346">
+    <dct:isPartOf rdf:resource="http://vocab.getty.edu/ulan/source/2100149014"/>
+    <bibo:locator>n 50018169</bibo:locator>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/DocumentPart"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5508225685">
+    <dc:description>J. tell Cotman (1500947574);</dc:description>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <dc:type>term added</dc:type>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500014103"/>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-10-20T13:16:48</prov:startedAtTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5501549218">
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500014103"/>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2002-11-11T15:19:45</prov:startedAtTime>
+    <dc:type>updated</dc:type>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/scopeNote/32385">
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000013"/>
+    <rdf:value xml:lang="en">Known for his portraits of London society, homely genre scenes, and highly finished narrative pictures. His later impressionistic oils and watercolors of his native East Anglia are considered some of his most successful work. British artist and architectural illustrator. Comment on works: Landscapes, Marines; etcher</rdf:value>
+    <dc:identifier>32385</dc:identifier>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100047587"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100156698-scopeNote-32385"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100043316"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000008"/>
+    <rdf:type rdf:resource="http://vocab.getty.edu/ontology#ScopeNote"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000130"/>
+    <dct:language rdf:resource="http://vocab.getty.edu/aat/300388277"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/500014103-agent">
+    <gvp:eventNonPreferred rdf:resource="http://vocab.getty.edu/ulan/event/187478"/>
+    <gvp:biography rdf:resource="http://vocab.getty.edu/ulan/bio/4000036134"/>
+    <gvp:biography rdf:resource="http://vocab.getty.edu/ulan/bio/4000464575"/>
+    <gvp:biography rdf:resource="http://vocab.getty.edu/ulan/bio/4000036132"/>
+    <gvp:biography rdf:resource="http://vocab.getty.edu/ulan/bio/4000036137"/>
+    <gvp:biographyNonPreferred rdf:resource="http://vocab.getty.edu/ulan/bio/4000036134"/>
+    <gvp:biography rdf:resource="http://vocab.getty.edu/ulan/bio/4000264982"/>
+    <gvp:biographyNonPreferred rdf:resource="http://vocab.getty.edu/ulan/bio/4000036137"/>
+    <gvp:biography rdf:resource="http://vocab.getty.edu/ulan/bio/4000036133"/>
+    <gvp:biography rdf:resource="http://vocab.getty.edu/ulan/bio/4000565789"/>
+    <void:inDataset rdf:resource="http://vocab.getty.edu/dataset/ulan"/>
+    <gvp:biographyNonPreferred rdf:resource="http://vocab.getty.edu/ulan/bio/4000036133"/>
+    <gvp:biography rdf:resource="http://vocab.getty.edu/ulan/bio/4000396409"/>
+    <gvp:eventPreferred rdf:resource="http://vocab.getty.edu/ulan/event/187479"/>
+    <gvp:biographyNonPreferred rdf:resource="http://vocab.getty.edu/ulan/bio/4000036132"/>
+    <gvp:biographyNonPreferred rdf:resource="http://vocab.getty.edu/ulan/bio/4000565789"/>
+    <gvp:biographyNonPreferred rdf:resource="http://vocab.getty.edu/ulan/bio/4000581013"/>
+    <gvp:biographyNonPreferred rdf:resource="http://vocab.getty.edu/ulan/bio/4000264982"/>
+    <gvp:biography rdf:resource="http://vocab.getty.edu/ulan/bio/4000488772"/>
+    <cc:license rdf:resource="http://opendatacommons.org/licenses/by/1.0/"/>
+    <gvp:nationalityNonPreferred rdf:resource="http://vocab.getty.edu/aat/300111178"/>
+    <schema:nationality rdf:resource="http://vocab.getty.edu/aat/300111159"/>
+    <bio:event rdf:resource="http://vocab.getty.edu/ulan/event/187479"/>
+    <dct:license rdf:resource="http://opendatacommons.org/licenses/by/1.0/"/>
+    <gvp:biography rdf:resource="http://vocab.getty.edu/ulan/bio/4000201896"/>
+    <gvp:biographyNonPreferred rdf:resource="http://vocab.getty.edu/ulan/bio/4000036135"/>
+    <gvp:biographyNonPreferred rdf:resource="http://vocab.getty.edu/ulan/bio/4000396409"/>
+    <schema:nationality rdf:resource="http://vocab.getty.edu/aat/300111178"/>
+    <gvp:biography rdf:resource="http://vocab.getty.edu/ulan/bio/4000036136"/>
+    <gvp:biographyPreferred rdf:resource="http://vocab.getty.edu/ulan/bio/4000201896"/>
+    <gvp:biography rdf:resource="http://vocab.getty.edu/ulan/bio/4000036135"/>
+    <gvp:biography rdf:resource="http://vocab.getty.edu/ulan/bio/4000581013"/>
+    <gvp:biographyNonPreferred rdf:resource="http://vocab.getty.edu/ulan/bio/4000036136"/>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <gvp:biographyNonPreferred rdf:resource="http://vocab.getty.edu/ulan/bio/4000488772"/>
+    <gvp:biographyNonPreferred rdf:resource="http://vocab.getty.edu/ulan/bio/4000464575"/>
+    <gvp:nationalityPreferred rdf:resource="http://vocab.getty.edu/aat/300111159"/>
+    <bio:event rdf:resource="http://vocab.getty.edu/ulan/event/187478"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/source/2100149014-subject-500014103">
+    <dct:isPartOf rdf:resource="http://vocab.getty.edu/ulan/source/2100149014"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/DocumentPart"/>
+    <bibo:locator>LOC ID: n50018169</bibo:locator>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5508225683">
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500014103"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-10-20T13:16:48</prov:startedAtTime>
+    <dc:type>term added</dc:type>
+    <dc:description>Cotsman (1500947572);</dc:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/500014103-nationality-300111159">
+    <rdf:subject rdf:resource="http://vocab.getty.edu/ulan/500014103-agent"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement"/>
+    <rdf:predicate rdf:resource="http://vocab.getty.edu/ontology#nationalityPreferred"/>
+    <rdf:object rdf:resource="http://vocab.getty.edu/aat/300111159"/>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">1</gvp:displayOrder>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/term/1500947571">
+    <gvp:historicFlag rdf:resource="http://vocab.getty.edu/historic/localUse"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100043316"/>
+    <skosxl:literalForm>Cotman</skosxl:literalForm>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <dc:identifier>1500947571</dc:identifier>
+    <gvp:term>Cotman</gvp:term>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">6</gvp:displayOrder>
+    <gvp:contributorNonPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5502234539">
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <dc:type>updated</dc:type>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500014103"/>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2004-04-29T10:16:07</prov:startedAtTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5508225682">
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-10-20T13:16:48</prov:startedAtTime>
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500014103"/>
+    <dc:type>term added</dc:type>
+    <dc:description>Cotman (1500947571);</dc:description>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/bio/4000036137">
+    <gvp:estEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1842-01-01</gvp:estEnd>
+    <schema:birthPlace rdf:resource="http://vocab.getty.edu/tgn/7012005-place"/>
+    <schema:description>British artist, 1782-1842</schema:description>
+    <schema:deathPlace rdf:resource="http://vocab.getty.edu/tgn/7011781-place"/>
+    <gvp:estStart rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1782-01-01</gvp:estStart>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000002"/>
+    <schema:gender rdf:resource="http://vocab.getty.edu/aat/300189559"/>
+    <rdf:type rdf:resource="http://vocab.getty.edu/ontology#Biography"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/source/2100156698-term-1500039630">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/DocumentPart"/>
+    <dct:isPartOf rdf:resource="http://vocab.getty.edu/ulan/source/2100156698"/>
+    <bibo:locator>accessed 25 Sep 2003</bibo:locator>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/term/1500947574">
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <gvp:contributorNonPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <skosxl:literalForm>J. tell Cotman</skosxl:literalForm>
+    <dc:identifier>1500947574</dc:identifier>
+    <gvp:term>J. tell Cotman</gvp:term>
+    <gvp:historicFlag rdf:resource="http://vocab.getty.edu/historic/localUse"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100043316"/>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">9</gvp:displayOrder>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/bio/4000264982">
+    <schema:description>British artist, 1782-1842</schema:description>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000130"/>
+    <schema:gender rdf:resource="http://vocab.getty.edu/aat/300189559"/>
+    <schema:birthPlace rdf:resource="http://vocab.getty.edu/tgn/7012005-place"/>
+    <gvp:estEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1842-01-01</gvp:estEnd>
+    <gvp:estStart rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1782-01-01</gvp:estStart>
+    <rdf:type rdf:resource="http://vocab.getty.edu/ontology#Biography"/>
+    <schema:deathPlace rdf:resource="http://vocab.getty.edu/tgn/7011781-place"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5500039114">
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1990-01-05T00:00:00</prov:startedAtTime>
+    <dc:type>created</dc:type>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Create"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5501691556">
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <dc:type>updated</dc:type>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500014103"/>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2003-09-25T14:10:46</prov:startedAtTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5504297686">
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-06-16T04:00:52</prov:startedAtTime>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+    <dc:type>note updated</dc:type>
+    <dc:description>Language: </dc:description>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500014103"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/event/187478">
+    <rdf:type rdf:resource="http://purl.org/vocab/bio/0.1/Event"/>
+    <dct:type rdf:resource="http://vocab.getty.edu/aat/300393177"/>
+    <rdf:type rdf:resource="http://schema.org/Event"/>
+    <schema:location rdf:resource="http://vocab.getty.edu/tgn/7012005-place"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5502518230">
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <dc:type>relation added</dc:type>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500014103"/>
+    <dc:description>Cotman, John Sell (500014103) 'teacher of' Corbould, Alfred Hichens (500121798);</dc:description>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2004-09-28T14:25:38</prov:startedAtTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/source/2100156698-subject-500014103">
+    <dct:isPartOf rdf:resource="http://vocab.getty.edu/ulan/source/2100156698"/>
+    <bibo:locator>accessed 25 Sep 2003</bibo:locator>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/DocumentPart"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5501691555">
+    <dc:type>note created</dc:type>
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500014103"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2003-09-25T14:10:46</prov:startedAtTime>
+    <dc:description>Language: </dc:description>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/bio/4000396409">
+    <schema:description>British artist, 1782-1842</schema:description>
+    <gvp:estEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1842-01-01</gvp:estEnd>
+    <rdf:type rdf:resource="http://vocab.getty.edu/ontology#Biography"/>
+    <schema:gender rdf:resource="http://vocab.getty.edu/aat/300400512"/>
+    <gvp:estStart rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1782-01-01</gvp:estStart>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000008"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/bio/4000036134">
+    <gvp:estStart rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1782-01-01</gvp:estStart>
+    <schema:description>British, 1782-1842</schema:description>
+    <schema:gender rdf:resource="http://vocab.getty.edu/aat/300189559"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000003"/>
+    <gvp:estEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1842-01-01</gvp:estEnd>
+    <rdf:type rdf:resource="http://vocab.getty.edu/ontology#Biography"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/bio/4000036133">
+    <schema:gender rdf:resource="http://vocab.getty.edu/aat/300189559"/>
+    <gvp:estStart rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1782-01-01</gvp:estStart>
+    <rdf:type rdf:resource="http://vocab.getty.edu/ontology#Biography"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000005"/>
+    <gvp:estEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1842-01-01</gvp:estEnd>
+    <schema:deathPlace rdf:resource="http://vocab.getty.edu/tgn/7011781-place"/>
+    <schema:birthPlace rdf:resource="http://vocab.getty.edu/tgn/7012005-place"/>
+    <schema:description>British painter, 1782-1842</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rel/500014103-agentType-300025136">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement"/>
+    <rdf:subject rdf:resource="http://vocab.getty.edu/ulan/500014103"/>
+    <rdf:predicate rdf:resource="http://vocab.getty.edu/ontology#agentTypeNonPreferred"/>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">2</gvp:displayOrder>
+    <rdf:object rdf:resource="http://vocab.getty.edu/aat/300025136"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rel/500014103-agentType-300025174">
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">4</gvp:displayOrder>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement"/>
+    <rdf:predicate rdf:resource="http://vocab.getty.edu/ontology#agentTypeNonPreferred"/>
+    <rdf:object rdf:resource="http://vocab.getty.edu/aat/300025174"/>
+    <rdf:subject rdf:resource="http://vocab.getty.edu/ulan/500014103"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/bio/4000488772">
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000012"/>
+    <gvp:estStart rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1782-01-01</gvp:estStart>
+    <schema:gender rdf:resource="http://vocab.getty.edu/aat/300400512"/>
+    <rdf:type rdf:resource="http://vocab.getty.edu/ontology#Biography"/>
+    <gvp:estEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1842-01-01</gvp:estEnd>
+    <schema:description>artist, 1782-1842</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/bio/4000036132">
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000008"/>
+    <schema:gender rdf:resource="http://vocab.getty.edu/aat/300189559"/>
+    <gvp:estEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1842-01-01</gvp:estEnd>
+    <schema:description>British artist and architectural illustrator, 1782-1842</schema:description>
+    <rdf:type rdf:resource="http://vocab.getty.edu/ontology#Biography"/>
+    <gvp:estStart rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1782-01-01</gvp:estStart>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rel/500014103-agentType-300025164">
+    <rdf:object rdf:resource="http://vocab.getty.edu/aat/300025164"/>
+    <rdf:subject rdf:resource="http://vocab.getty.edu/ulan/500014103"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement"/>
+    <rdf:predicate rdf:resource="http://vocab.getty.edu/ontology#agentTypeNonPreferred"/>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">3</gvp:displayOrder>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5503867612">
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500014103"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-03-20T15:43:31</prov:startedAtTime>
+    <dc:description>Cotman, John Sell (500014103) 'uncle of' Cotman, Frederick George (500014104);</dc:description>
+    <dc:type>relation added</dc:type>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/500014103-nationality-300111178">
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">2</gvp:displayOrder>
+    <rdf:object rdf:resource="http://vocab.getty.edu/aat/300111178"/>
+    <rdf:subject rdf:resource="http://vocab.getty.edu/ulan/500014103-agent"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement"/>
+    <rdf:predicate rdf:resource="http://vocab.getty.edu/ontology#nationalityNonPreferred"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/bio/4000036135">
+    <schema:gender rdf:resource="http://vocab.getty.edu/aat/300189559"/>
+    <schema:description>British painter, 1782-1842</schema:description>
+    <rdf:type rdf:resource="http://vocab.getty.edu/ontology#Biography"/>
+    <gvp:estEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1842-01-01</gvp:estEnd>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <gvp:estStart rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1782-01-01</gvp:estStart>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/bio/4000581013">
+    <gvp:estEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1842-01-01</gvp:estEnd>
+    <schema:description>British artist, 1782-1842</schema:description>
+    <gvp:estStart rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1782-01-01</gvp:estStart>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <schema:gender rdf:resource="http://vocab.getty.edu/aat/300400512"/>
+    <rdf:type rdf:resource="http://vocab.getty.edu/ontology#Biography"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5505518307">
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+    <dc:type>term added</dc:type>
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500014103"/>
+    <dc:description>Cotman, J. S. (1500760346);</dc:description>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-02-18T12:04:05</prov:startedAtTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5508225684">
+    <dc:type>term added</dc:type>
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500014103"/>
+    <dc:description>Cottman (1500947573);</dc:description>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-10-20T13:16:48</prov:startedAtTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rel/500014103-agentType-300236992">
+    <rdf:object rdf:resource="http://vocab.getty.edu/aat/300236992"/>
+    <rdf:subject rdf:resource="http://vocab.getty.edu/ulan/500014103"/>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">6</gvp:displayOrder>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement"/>
+    <rdf:predicate rdf:resource="http://vocab.getty.edu/ontology#agentTypeNonPreferred"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/source/2100156698-scopeNote-32385">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/DocumentPart"/>
+    <dct:isPartOf rdf:resource="http://vocab.getty.edu/ulan/source/2100156698"/>
+    <bibo:locator>accessed 25 Sep 2003</bibo:locator>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5501549219">
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <dc:description>Cotman (1500039629);</dc:description>
+    <dc:type>term deleted</dc:type>
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500014103"/>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2002-11-11T15:19:45</prov:startedAtTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/bio/4000464575">
+    <schema:gender rdf:resource="http://vocab.getty.edu/aat/300400512"/>
+    <gvp:estStart rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1782-01-01</gvp:estStart>
+    <gvp:estEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1842-01-01</gvp:estEnd>
+    <rdf:type rdf:resource="http://vocab.getty.edu/ontology#Biography"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000189"/>
+    <schema:description>English painter, 1782-1842</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/event/187479">
+    <schema:location rdf:resource="http://vocab.getty.edu/tgn/7011781-place"/>
+    <rdf:type rdf:resource="http://schema.org/Event"/>
+    <rdf:type rdf:resource="http://purl.org/vocab/bio/0.1/Event"/>
+    <dct:type rdf:resource="http://vocab.getty.edu/aat/300393177"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/bio/4000565789">
+    <schema:description>Unknown artist</schema:description>
+    <gvp:estEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2100-01-01</gvp:estEnd>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <rdf:type rdf:resource="http://vocab.getty.edu/ontology#Biography"/>
+    <schema:gender rdf:resource="http://vocab.getty.edu/aat/300400512"/>
+    <gvp:estStart rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">0001-01-01</gvp:estStart>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5500039115">
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <dc:type>created</dc:type>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Create"/>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1990-05-05T00:00:00</prov:startedAtTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/term/1500947573">
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <gvp:historicFlag rdf:resource="http://vocab.getty.edu/historic/localUse"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100043316"/>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">8</gvp:displayOrder>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <skosxl:literalForm>Cottman</skosxl:literalForm>
+    <gvp:contributorNonPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <dc:identifier>1500947573</dc:identifier>
+    <gvp:term>Cottman</gvp:term>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rel/500014103-ulan1101_teacher_of-500121798">
+    <rdf:object rdf:resource="http://vocab.getty.edu/ulan/500121798"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement"/>
+    <rdf:subject rdf:resource="http://vocab.getty.edu/ulan/500014103"/>
+    <rdf:predicate rdf:resource="http://vocab.getty.edu/ontology#ulan1101_teacher_of"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rel/500014103-ulan1512_parent_of-500010274">
+    <rdf:predicate rdf:resource="http://vocab.getty.edu/ontology#ulan1512_parent_of"/>
+    <rdf:object rdf:resource="http://vocab.getty.edu/ulan/500010274"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement"/>
+    <rdf:subject rdf:resource="http://vocab.getty.edu/ulan/500014103"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5508687365">
+    <dc:description>Language: English (70051)</dc:description>
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500014103"/>
+    <dc:type>note updated</dc:type>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-11-02T10:40:47</prov:startedAtTime>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rel/500014103-ulan1532_uncle-aunt_of-500014104">
+    <rdf:predicate rdf:resource="http://vocab.getty.edu/ontology#ulan1532_uncle-aunt_of"/>
+    <rdf:subject rdf:resource="http://vocab.getty.edu/ulan/500014103"/>
+    <rdf:object rdf:resource="http://vocab.getty.edu/ulan/500014104"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5500039113">
+    <dc:type>created</dc:type>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1990-02-01T00:00:00</prov:startedAtTime>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Create"/>
+  </rdf:Description>
+</rdf:RDF>

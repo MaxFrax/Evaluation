@@ -22,13 +22,16 @@ print "Downloading info..."
 for personURI in peopleURIs:
     iterator += 1
     print "%s/%s" % (iterator, len(peopleURIs))
-    path = personURI.replace("/", "")
-    # Downloads all the URIs not already downloaded
-    if path not in listDir:
-        g = rdflib.Graph()
-        g.load(personURI)
-        path = "Yale-Data/" + path
-        g.serialize(destination=path)
+    try:
+        path = personURI.replace("/", "")
+        # Downloads all the URIs not already downloaded
+        if path not in listDir:
+            g = rdflib.Graph()
+            g.load(personURI)
+            path = "Yale-Data/" + path
+            g.serialize(destination=path)
+    except:
+        print "Failed download: %s" % personURI
 
 iterator = 0
 

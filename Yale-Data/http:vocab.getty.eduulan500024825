@@ -1,0 +1,940 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:bibo="http://purl.org/ontology/bibo/"
+   xmlns:bio="http://purl.org/vocab/bio/0.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:gvp="http://vocab.getty.edu/ontology#"
+   xmlns:prov="http://www.w3.org/ns/prov#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:schema="http://schema.org/"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:skosxl="http://www.w3.org/2008/05/skos-xl#"
+   xmlns:void="http://rdfs.org/ns/void#"
+>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/term/1501002353">
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <gvp:historicFlag rdf:resource="http://vocab.getty.edu/historic/localUse"/>
+    <gvp:contributorNonPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">11</gvp:displayOrder>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100043316"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <dc:identifier>1501002353</dc:identifier>
+    <gvp:term>alfred munnings</gvp:term>
+    <skosxl:literalForm>alfred munnings</skosxl:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/bio/4000588492">
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <schema:description>British artist, 1878-1959</schema:description>
+    <rdf:type rdf:resource="http://vocab.getty.edu/ontology#Biography"/>
+    <schema:gender rdf:resource="http://vocab.getty.edu/aat/300400512"/>
+    <gvp:estEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1959-01-01</gvp:estEnd>
+    <gvp:estStart rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1878-01-01</gvp:estStart>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/source/2100149014-subject-500024825">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/DocumentPart"/>
+    <dct:isPartOf rdf:resource="http://vocab.getty.edu/ulan/source/2100149014"/>
+    <bibo:locator>LOC ID: n86800463</bibo:locator>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/term/1501002355">
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <skosxl:literalForm>alfred j. munnings</skosxl:literalForm>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">10</gvp:displayOrder>
+    <gvp:historicFlag rdf:resource="http://vocab.getty.edu/historic/localUse"/>
+    <gvp:contributorNonPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <gvp:term>alfred j. munnings</gvp:term>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100043316"/>
+    <dc:identifier>1501002355</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5500068601">
+    <dc:type>created</dc:type>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1990-04-06T00:00:00</prov:startedAtTime>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Create"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/term/1501002354">
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <dc:identifier>1501002354</dc:identifier>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <gvp:historicFlag rdf:resource="http://vocab.getty.edu/historic/localUse"/>
+    <gvp:term>a.j. munnings</gvp:term>
+    <skosxl:literalForm>a.j. munnings</skosxl:literalForm>
+    <gvp:contributorNonPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">9</gvp:displayOrder>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100043316"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/500024825">
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5504551606"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-10-20T16:04:51</dct:modified>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5500068604"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000189"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-08-06T11:01:07</dct:modified>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n86800463"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5508380504"/>
+    <skosxl:altLabel rdf:resource="http://vocab.getty.edu/ulan/term/1500632290"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5508380506"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5500068601"/>
+    <skos:altLabel>munnings, alfred</skos:altLabel>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5504551606"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5500068604"/>
+    <rdf:type rdf:resource="http://vocab.getty.edu/ontology#PersonConcept"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5504551590"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5508700903"/>
+    <skosxl:altLabel rdf:resource="http://vocab.getty.edu/ulan/term/1500068537"/>
+    <gvp:broaderInstantial rdf:resource="http://vocab.getty.edu/ulan/500000002"/>
+    <prov:wasGeneratedBy rdf:resource="http://vocab.getty.edu/ulan/rev/5500068605"/>
+    <skosxl:altLabel rdf:resource="http://vocab.getty.edu/ulan/term/1501002349"/>
+    <foaf:focus rdf:resource="http://vocab.getty.edu/ulan/500024825-agent"/>
+    <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1990-05-05T00:00:00</dct:created>
+    <gvp:agentType rdf:resource="http://vocab.getty.edu/aat/300025136"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5508380505"/>
+    <gvp:prefLabelGVP rdf:resource="http://vocab.getty.edu/ulan/term/1500068538"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5507698694"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-11-05T13:58:47</dct:modified>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5500068605"/>
+    <skos:inScheme rdf:resource="http://vocab.getty.edu/ulan/"/>
+    <prov:wasGeneratedBy rdf:resource="http://vocab.getty.edu/ulan/rev/5500068601"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100154640"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5500068603"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-11-02T10:40:56</dct:modified>
+    <rdfs:label>Munnings, Alfred, Sir</rdfs:label>
+    <rdfs:label>alfred j. munnings</rdfs:label>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-08-06T11:01:01</dct:modified>
+    <gvp:broaderInstantialExtended rdf:resource="http://vocab.getty.edu/ulan/500000002"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000130"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5508380506"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5508380510"/>
+    <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1989-12-22T00:00:00</dct:created>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2002-11-18T11:31:56</dct:modified>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000003"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5504551634"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000256"/>
+    <skos:altLabel>Munnings, Alfred James, Sir</skos:altLabel>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5500068605"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5508380545"/>
+    <skosxl:altLabel rdf:resource="http://vocab.getty.edu/ulan/term/1500068539"/>
+    <skosxl:prefLabel rdf:resource="http://vocab.getty.edu/ulan/term/1500068538"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000008"/>
+    <rdfs:label>Munnings, Sir Alfred J.</rdfs:label>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5501228064"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5504551592"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5508380509"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100158442"/>
+    <rdfs:label>a.j. munnings</rdfs:label>
+    <skosxl:altLabel rdf:resource="http://vocab.getty.edu/ulan/term/1501002351"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2002-06-06T11:49:40</dct:modified>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5500068601"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5508380513"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-10-20T16:04:50</dct:modified>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5508380508"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5504551590"/>
+    <skos:altLabel>alfred munnings</skos:altLabel>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5503440500"/>
+    <skos:altLabel>Alfred James Munnings</skos:altLabel>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5504551635"/>
+    <skosxl:altLabel rdf:resource="http://vocab.getty.edu/ulan/term/1501002348"/>
+    <rdfs:label>Alfred James Munnings</rdfs:label>
+    <rdfs:label>Munnings, Alfred James</rdfs:label>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5508380510"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000001"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5503440510"/>
+    <skosxl:altLabel rdf:resource="http://vocab.getty.edu/ulan/term/1500068534"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000002"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2008-08-16T17:20:37</dct:modified>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2008-08-16T17:20:38</dct:modified>
+    <skosxl:altLabel rdf:resource="http://vocab.getty.edu/ulan/term/1500068536"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5508380512"/>
+    <gvp:agentTypeNonPreferred rdf:resource="http://vocab.getty.edu/aat/300025181"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5508700903"/>
+    <rdfs:label>sir alfred munnings</rdfs:label>
+    <prov:wasGeneratedBy rdf:resource="http://vocab.getty.edu/ulan/rev/5500068603"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <skos:altLabel>Alfred J. Munnings Sir</skos:altLabel>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100153925"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000124"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5505319732"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5508380545"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5503440500"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2002-06-06T11:50:52</dct:modified>
+    <gvp:parentString>Persons, Artists</gvp:parentString>
+    <skosxl:altLabel rdf:resource="http://vocab.getty.edu/ulan/term/1501002354"/>
+    <skosxl:altLabel rdf:resource="http://vocab.getty.edu/ulan/term/1500068540"/>
+    <skos:altLabel>sir alfred munnings</skos:altLabel>
+    <rdfs:label>Munnings, Alfred J., Sir</rdfs:label>
+    <skos:altLabel>Munnings, Sir Alfred James</skos:altLabel>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5504551635"/>
+    <gvp:parentStringAbbrev>Persons, Artists</gvp:parentStringAbbrev>
+    <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1990-01-05T00:00:00</dct:created>
+    <skos:altLabel>Munnings, Alfred J., Sir</skos:altLabel>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5504551636"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5508380512"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5508380511"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5508380507"/>
+    <rdfs:label>Munnings, Sir Alfred James</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5505319732"/>
+    <skosxl:altLabel rdf:resource="http://vocab.getty.edu/ulan/term/1501002345"/>
+    <gvp:broaderExtended rdf:resource="http://vocab.getty.edu/ulan/500000002"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5500068602"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000005"/>
+    <skos:altLabel>Munnings, Alfred J.</skos:altLabel>
+    <gvp:agentType rdf:resource="http://vocab.getty.edu/aat/300386217"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5503584542"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5504551591"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5501228065"/>
+    <rdfs:label>Munnings</rdfs:label>
+    <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1990-04-06T00:00:00</dct:created>
+    <rdfs:label>munnings, alfred</rdfs:label>
+    <skos:scopeNote rdf:resource="http://vocab.getty.edu/ulan/scopeNote/142276"/>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">123965</gvp:displayOrder>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5501228063"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5508380505"/>
+    <skosxl:altLabel rdf:resource="http://vocab.getty.edu/ulan/term/1501002352"/>
+    <skosxl:altLabel rdf:resource="http://vocab.getty.edu/ulan/term/1501002355"/>
+    <skos:altLabel>munnings, sir alfred</skos:altLabel>
+    <gvp:agentTypeNonPreferred rdf:resource="http://vocab.getty.edu/aat/300025136"/>
+    <gvp:broaderPreferred rdf:resource="http://vocab.getty.edu/ulan/500000002"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2008-08-16T22:42:28</dct:modified>
+    <skos:altLabel>Munnings, Sir</skos:altLabel>
+    <rdf:type rdf:resource="http://vocab.getty.edu/ontology#Subject"/>
+    <rdfs:label>munnings, sir alfred</rdfs:label>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/scopeNote/142276"/>
+    <rdfs:label>Munnings, Sir</rdfs:label>
+    <dct:license rdf:resource="http://opendatacommons.org/licenses/by/1.0/"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5501554328"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5500068602"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5508689722"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5508380504"/>
+    <rdfs:label>Munnings, Alfred James, Sir</rdfs:label>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5504551592"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100042266"/>
+    <skos:altLabel>Munnings</skos:altLabel>
+    <rdfs:label>Munnings, Sir Alfred</rdfs:label>
+    <skos:exactMatch rdf:resource="http://vocab.getty.edu/ulan/500024825"/>
+    <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1990-05-16T00:00:00</dct:created>
+    <skosxl:altLabel rdf:resource="http://vocab.getty.edu/ulan/term/1500403670"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5501605793"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2003-02-04T13:06:06</dct:modified>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5508380508"/>
+    <skos:mappingRelation rdf:resource="http://id.loc.gov/authorities/names/n86800463"/>
+    <skosxl:altLabel rdf:resource="http://vocab.getty.edu/ulan/term/1501002353"/>
+    <gvp:broaderPreferredExtended rdf:resource="http://vocab.getty.edu/ulan/500000002"/>
+    <gvp:agentTypeNonPreferred rdf:resource="http://vocab.getty.edu/aat/300386217"/>
+    <rdfs:label>alfred munnings</rdfs:label>
+    <skos:altLabel>Munnings, Alfred, Sir</skos:altLabel>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100041072"/>
+    <skos:closeMatch rdf:resource="http://vocab.getty.edu/ulan/500024825"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-11-02T12:36:46</dct:modified>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100156593-subject-500024825"/>
+    <skos:altLabel>alfred j. munnings</skos:altLabel>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5501554328"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5504551636"/>
+    <skosxl:altLabel rdf:resource="http://vocab.getty.edu/ulan/term/1501002346"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5503440510"/>
+    <rdfs:seeAlso rdf:resource="http://www.getty.edu/vow/ULANFullDisplay?find=&amp;role=&amp;nation=&amp;subjectid=500024825"/>
+    <rdfs:label>Munnings, Alfred J.</rdfs:label>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000013"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5504551591"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5501605792"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100163303"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5508689722"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5508380511"/>
+    <skos:mappingRelation rdf:resource="http://vocab.getty.edu/ulan/500024825"/>
+    <rdfs:label>Alfred J. Munnings Sir</rdfs:label>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-03-14T15:59:42</dct:modified>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5507698694"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100046004"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5501605793"/>
+    <gvp:broader rdf:resource="http://vocab.getty.edu/ulan/500000002"/>
+    <gvp:agentTypePreferred rdf:resource="http://vocab.getty.edu/aat/300025103"/>
+    <void:inDataset rdf:resource="http://vocab.getty.edu/dataset/ulan"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5501228065"/>
+    <gvp:agentType rdf:resource="http://vocab.getty.edu/aat/300025181"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5501605792"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5501228064"/>
+    <cc:license rdf:resource="http://opendatacommons.org/licenses/by/1.0/"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5508380509"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100045787"/>
+    <skos:altLabel>a.j. munnings</skos:altLabel>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-08-06T11:04:25</dct:modified>
+    <skos:closeMatch rdf:resource="http://id.loc.gov/authorities/names/n86800463"/>
+    <skos:altLabel>Munnings, Sir Alfred J.</skos:altLabel>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5508380513"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5504551634"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5508380507"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5503584542"/>
+    <prov:wasGeneratedBy rdf:resource="http://vocab.getty.edu/ulan/rev/5500068602"/>
+    <skos:altLabel>Munnings, Sir Alfred</skos:altLabel>
+    <dc:identifier>500024825</dc:identifier>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100043316"/>
+    <gvp:agentType rdf:resource="http://vocab.getty.edu/aat/300025103"/>
+    <skosxl:altLabel rdf:resource="http://vocab.getty.edu/ulan/term/1501002350"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5501228063"/>
+    <prov:wasGeneratedBy rdf:resource="http://vocab.getty.edu/ulan/rev/5500068604"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100149014-subject-500024825"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5500068603"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100042297"/>
+    <skos:prefLabel>Munnings, Alfred James</skos:prefLabel>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000016"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100046495"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5504551591">
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500024825"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-08-06T11:01:01</prov:startedAtTime>
+    <dc:description>Alfred J. Munnings Sir (1500632290);</dc:description>
+    <dc:type>term added</dc:type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5500068603">
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1990-01-05T00:00:00</prov:startedAtTime>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Create"/>
+    <dc:type>created</dc:type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5500068604">
+    <dc:type>created</dc:type>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Create"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1990-05-05T00:00:00</prov:startedAtTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/bio/4000567902">
+    <gvp:estEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2100-01-01</gvp:estEnd>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <schema:gender rdf:resource="http://vocab.getty.edu/aat/300400512"/>
+    <gvp:estStart rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">0001-01-01</gvp:estStart>
+    <rdf:type rdf:resource="http://vocab.getty.edu/ontology#Biography"/>
+    <schema:description>Unknown artist</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/event/190466">
+    <rdf:type rdf:resource="http://purl.org/vocab/bio/0.1/Event"/>
+    <dct:type rdf:resource="http://vocab.getty.edu/aat/300393177"/>
+    <schema:location rdf:resource="http://vocab.getty.edu/tgn/4003203-place"/>
+    <rdf:type rdf:resource="http://schema.org/Event"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/term/1500068539">
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000189"/>
+    <gvp:sourceNonPreferred rdf:resource="http://vocab.getty.edu/ulan/source/2100042266"/>
+    <gvp:contributorNonPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000008"/>
+    <gvp:sourceNonPreferred rdf:resource="http://vocab.getty.edu/ulan/source/2100046495"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100042658"/>
+    <gvp:termFlag rdf:resource="http://vocab.getty.edu/term/flag/Vernacular"/>
+    <gvp:sourceNonPreferred rdf:resource="http://vocab.getty.edu/ulan/source/2100154640"/>
+    <dc:identifier>1500068539</dc:identifier>
+    <skosxl:literalForm>Munnings, Sir Alfred James</skosxl:literalForm>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <gvp:sourceNonPreferred rdf:resource="http://vocab.getty.edu/ulan/source/2100042658"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100046495"/>
+    <gvp:contributorNonPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000189"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000008"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100042266"/>
+    <gvp:term>Munnings, Sir Alfred James</gvp:term>
+    <gvp:contributorNonPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000013"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000013"/>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">5</gvp:displayOrder>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100154640"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/500024825-nationality-300111178">
+    <rdf:subject rdf:resource="http://vocab.getty.edu/ulan/500024825-agent"/>
+    <rdf:predicate rdf:resource="http://vocab.getty.edu/ontology#nationalityNonPreferred"/>
+    <rdf:object rdf:resource="http://vocab.getty.edu/aat/300111178"/>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">2</gvp:displayOrder>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/bio/4000063462">
+    <schema:gender rdf:resource="http://vocab.getty.edu/aat/300189559"/>
+    <schema:description>British artist, 1878-1959</schema:description>
+    <gvp:estEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1959-01-01</gvp:estEnd>
+    <rdf:type rdf:resource="http://vocab.getty.edu/ontology#Biography"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000002"/>
+    <schema:deathPlace rdf:resource="http://vocab.getty.edu/tgn/4003203-place"/>
+    <gvp:estStart rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1878-01-01</gvp:estStart>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/bio/4000063463">
+    <schema:gender rdf:resource="http://vocab.getty.edu/aat/300189559"/>
+    <schema:description>British artist, 1878-1959</schema:description>
+    <gvp:estStart rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1878-01-01</gvp:estStart>
+    <rdf:type rdf:resource="http://vocab.getty.edu/ontology#Biography"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000001"/>
+    <gvp:estEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1959-01-01</gvp:estEnd>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/term/1500068534">
+    <gvp:sourceNonPreferred rdf:resource="http://vocab.getty.edu/ulan/source/2100042266"/>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">2</gvp:displayOrder>
+    <dc:identifier>1500068534</dc:identifier>
+    <gvp:sourceNonPreferred rdf:resource="http://vocab.getty.edu/ulan/source/2100039894"/>
+    <gvp:termFlag rdf:resource="http://vocab.getty.edu/term/flag/Vernacular"/>
+    <gvp:contributorNonPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100043316"/>
+    <gvp:termDisplay rdf:resource="http://vocab.getty.edu/term/display/Display"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100039894"/>
+    <skosxl:literalForm>Alfred James Munnings</skosxl:literalForm>
+    <gvp:sourceNonPreferred rdf:resource="http://vocab.getty.edu/ulan/source/2100043316"/>
+    <gvp:term>Alfred James Munnings</gvp:term>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <gvp:contributorNonPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000013"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000013"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100042266"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/500024825-agent">
+    <schema:nationality rdf:resource="http://vocab.getty.edu/aat/300111159"/>
+    <gvp:nationalityNonPreferred rdf:resource="http://vocab.getty.edu/aat/300111178"/>
+    <gvp:biography rdf:resource="http://vocab.getty.edu/ulan/bio/4000327343"/>
+    <gvp:biographyNonPreferred rdf:resource="http://vocab.getty.edu/ulan/bio/4000327343"/>
+    <gvp:eventNonPreferred rdf:resource="http://vocab.getty.edu/ulan/event/190466"/>
+    <gvp:biographyNonPreferred rdf:resource="http://vocab.getty.edu/ulan/bio/4000063461"/>
+    <void:inDataset rdf:resource="http://vocab.getty.edu/dataset/ulan"/>
+    <gvp:nationalityPreferred rdf:resource="http://vocab.getty.edu/aat/300111159"/>
+    <gvp:biography rdf:resource="http://vocab.getty.edu/ulan/bio/4000387911"/>
+    <gvp:biographyNonPreferred rdf:resource="http://vocab.getty.edu/ulan/bio/4000567902"/>
+    <gvp:eventNonPreferred rdf:resource="http://vocab.getty.edu/ulan/event/190467"/>
+    <gvp:biography rdf:resource="http://vocab.getty.edu/ulan/bio/4000300784"/>
+    <gvp:biography rdf:resource="http://vocab.getty.edu/ulan/bio/4000063463"/>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <gvp:biographyNonPreferred rdf:resource="http://vocab.getty.edu/ulan/bio/4000588492"/>
+    <gvp:biography rdf:resource="http://vocab.getty.edu/ulan/bio/4000063461"/>
+    <gvp:biographyNonPreferred rdf:resource="http://vocab.getty.edu/ulan/bio/4000063462"/>
+    <gvp:biography rdf:resource="http://vocab.getty.edu/ulan/bio/4000567902"/>
+    <gvp:biography rdf:resource="http://vocab.getty.edu/ulan/bio/4000063459"/>
+    <gvp:biographyNonPreferred rdf:resource="http://vocab.getty.edu/ulan/bio/4000471314"/>
+    <schema:nationality rdf:resource="http://vocab.getty.edu/aat/300111178"/>
+    <gvp:biography rdf:resource="http://vocab.getty.edu/ulan/bio/4000471314"/>
+    <bio:event rdf:resource="http://vocab.getty.edu/ulan/event/190464"/>
+    <bio:event rdf:resource="http://vocab.getty.edu/ulan/event/190467"/>
+    <gvp:biographyPreferred rdf:resource="http://vocab.getty.edu/ulan/bio/4000063460"/>
+    <gvp:biographyNonPreferred rdf:resource="http://vocab.getty.edu/ulan/bio/4000387912"/>
+    <gvp:biographyNonPreferred rdf:resource="http://vocab.getty.edu/ulan/bio/4000063459"/>
+    <bio:event rdf:resource="http://vocab.getty.edu/ulan/event/190468"/>
+    <gvp:biographyNonPreferred rdf:resource="http://vocab.getty.edu/ulan/bio/4000063463"/>
+    <gvp:biographyNonPreferred rdf:resource="http://vocab.getty.edu/ulan/bio/4000300784"/>
+    <gvp:biography rdf:resource="http://vocab.getty.edu/ulan/bio/4000588492"/>
+    <cc:license rdf:resource="http://opendatacommons.org/licenses/by/1.0/"/>
+    <gvp:biography rdf:resource="http://vocab.getty.edu/ulan/bio/4000387912"/>
+    <gvp:eventPreferred rdf:resource="http://vocab.getty.edu/ulan/event/190464"/>
+    <gvp:biographyNonPreferred rdf:resource="http://vocab.getty.edu/ulan/bio/4000387911"/>
+    <gvp:biography rdf:resource="http://vocab.getty.edu/ulan/bio/4000063462"/>
+    <bio:event rdf:resource="http://vocab.getty.edu/ulan/event/190466"/>
+    <gvp:eventNonPreferred rdf:resource="http://vocab.getty.edu/ulan/event/190468"/>
+    <gvp:biography rdf:resource="http://vocab.getty.edu/ulan/bio/4000063460"/>
+    <dct:license rdf:resource="http://opendatacommons.org/licenses/by/1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/term/1500068538">
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <skosxl:literalForm>Munnings, Alfred James</skosxl:literalForm>
+    <gvp:contributorPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000130"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000016"/>
+    <gvp:sourcePreferred rdf:resource="http://vocab.getty.edu/ulan/source/2100043316"/>
+    <gvp:contributorPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000005"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100042266"/>
+    <gvp:contributorPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000124"/>
+    <gvp:termFlag rdf:resource="http://vocab.getty.edu/term/flag/Vernacular"/>
+    <gvp:termDisplay rdf:resource="http://vocab.getty.edu/term/display/Indexing"/>
+    <gvp:sourcePreferred rdf:resource="http://vocab.getty.edu/ulan/source/2100042266"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100158442"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100045787"/>
+    <gvp:term>Munnings, Alfred James</gvp:term>
+    <gvp:sourcePreferred rdf:resource="http://vocab.getty.edu/ulan/source/2100158442"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000124"/>
+    <gvp:contributorPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">1</gvp:displayOrder>
+    <dc:identifier>1500068538</dc:identifier>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000130"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100043316"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000005"/>
+    <gvp:contributorPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000016"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/term/1501002346">
+    <gvp:historicFlag rdf:resource="http://vocab.getty.edu/historic/localUse"/>
+    <gvp:term>Munnings</gvp:term>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <skosxl:literalForm>Munnings</skosxl:literalForm>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">12</gvp:displayOrder>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100043316"/>
+    <gvp:contributorNonPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <dc:identifier>1501002346</dc:identifier>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/term/1500068537">
+    <skosxl:literalForm>Munnings, Sir Alfred J.</skosxl:literalForm>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100042266"/>
+    <gvp:term>Munnings, Sir Alfred J.</gvp:term>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000013"/>
+    <gvp:contributorNonPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000013"/>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">4</gvp:displayOrder>
+    <gvp:sourceNonPreferred rdf:resource="http://vocab.getty.edu/ulan/source/2100042266"/>
+    <dc:identifier>1500068537</dc:identifier>
+    <gvp:termFlag rdf:resource="http://vocab.getty.edu/term/flag/Vernacular"/>
+    <gvp:sourceNonPreferred rdf:resource="http://vocab.getty.edu/ulan/source/2100042658"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <gvp:contributorNonPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000008"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100042658"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000008"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rel/500024825-agentType-300025181">
+    <rdf:predicate rdf:resource="http://vocab.getty.edu/ontology#agentTypeNonPreferred"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement"/>
+    <rdf:object rdf:resource="http://vocab.getty.edu/aat/300025181"/>
+    <rdf:subject rdf:resource="http://vocab.getty.edu/ulan/500024825"/>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">3</gvp:displayOrder>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5508380512">
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-10-20T16:04:50</prov:startedAtTime>
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500024825"/>
+    <dc:type>term added</dc:type>
+    <dc:description>munnings, sir alfred (1501002350);</dc:description>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/bio/4000327343">
+    <rdf:type rdf:resource="http://vocab.getty.edu/ontology#Biography"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000124"/>
+    <schema:description>British sculptor, 1878-1959</schema:description>
+    <gvp:estEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1959-01-01</gvp:estEnd>
+    <schema:gender rdf:resource="http://vocab.getty.edu/aat/300189559"/>
+    <schema:deathPlace rdf:resource="http://vocab.getty.edu/tgn/4003203-place"/>
+    <gvp:estStart rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1878-01-01</gvp:estStart>
+    <schema:birthPlace rdf:resource="http://vocab.getty.edu/tgn/7008185-place"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/term/1500068536">
+    <gvp:term>Munnings, Alfred J.</gvp:term>
+    <gvp:contributorNonPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">3</gvp:displayOrder>
+    <skosxl:literalForm>Munnings, Alfred J.</skosxl:literalForm>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100042297"/>
+    <gvp:termFlag rdf:resource="http://vocab.getty.edu/term/flag/Vernacular"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000003"/>
+    <gvp:contributorPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000003"/>
+    <gvp:sourceNonPreferred rdf:resource="http://vocab.getty.edu/ulan/source/2100043316"/>
+    <dc:identifier>1500068536</dc:identifier>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100043316"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/term/1501002348">
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <gvp:contributorNonPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <skosxl:literalForm>Munnings, Alfred J., Sir</skosxl:literalForm>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">15</gvp:displayOrder>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100043316"/>
+    <dc:identifier>1501002348</dc:identifier>
+    <gvp:term>Munnings, Alfred J., Sir</gvp:term>
+    <gvp:historicFlag rdf:resource="http://vocab.getty.edu/historic/localUse"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/event/190468">
+    <rdf:type rdf:resource="http://purl.org/vocab/bio/0.1/Event"/>
+    <dct:type rdf:resource="http://vocab.getty.edu/aat/300393177"/>
+    <rdf:type rdf:resource="http://schema.org/Event"/>
+    <schema:location rdf:resource="http://vocab.getty.edu/tgn/7012005-place"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/term/1500632290">
+    <dc:identifier>1500632290</dc:identifier>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000013"/>
+    <skosxl:literalForm>Alfred J. Munnings Sir</skosxl:literalForm>
+    <gvp:contributorNonPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000008"/>
+    <gvp:contributorNonPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000013"/>
+    <gvp:sourceNonPreferred rdf:resource="http://vocab.getty.edu/ulan/source/2100039894"/>
+    <gvp:term>Alfred J. Munnings Sir</gvp:term>
+    <gvp:termFlag rdf:resource="http://vocab.getty.edu/term/flag/Vernacular"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100039894"/>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">8</gvp:displayOrder>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000008"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5501554328">
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500024825"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+    <dc:type>updated</dc:type>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2002-11-18T11:31:56</prov:startedAtTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/bio/4000387912">
+    <rdf:type rdf:resource="http://vocab.getty.edu/ontology#Biography"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000008"/>
+    <schema:description>British painter</schema:description>
+    <schema:gender rdf:resource="http://vocab.getty.edu/aat/300189559"/>
+    <gvp:estEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1959-01-01</gvp:estEnd>
+    <gvp:estStart rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1878-01-01</gvp:estStart>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/term/1501002352">
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <dc:identifier>1501002352</dc:identifier>
+    <gvp:historicFlag rdf:resource="http://vocab.getty.edu/historic/localUse"/>
+    <skosxl:literalForm>sir alfred munnings</skosxl:literalForm>
+    <gvp:contributorNonPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">18</gvp:displayOrder>
+    <gvp:term>sir alfred munnings</gvp:term>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100043316"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5508700903">
+    <dc:description>Language: English (70051)</dc:description>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-11-02T12:36:46</prov:startedAtTime>
+    <dc:type>note updated</dc:type>
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500024825"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/term/1500068540">
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <gvp:termFlag rdf:resource="http://vocab.getty.edu/term/flag/Vernacular"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000189"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000013"/>
+    <gvp:sourceNonPreferred rdf:resource="http://vocab.getty.edu/ulan/source/2100042266"/>
+    <gvp:contributorPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000189"/>
+    <gvp:term>Munnings, Sir Alfred</gvp:term>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">6</gvp:displayOrder>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <gvp:sourcePreferred rdf:resource="http://vocab.getty.edu/ulan/source/2100154640"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100154640"/>
+    <dc:identifier>1500068540</dc:identifier>
+    <skosxl:literalForm>Munnings, Sir Alfred</skosxl:literalForm>
+    <gvp:contributorNonPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000013"/>
+    <gvp:contributorNonPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100042266"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5501605792">
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2003-02-04T13:06:06</prov:startedAtTime>
+    <dc:type>updated</dc:type>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500024825"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5504551590">
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-08-06T11:01:01</prov:startedAtTime>
+    <dc:type>term added</dc:type>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500024825"/>
+    <dc:description>Munnings, Alfred J., Sir (1500561215);</dc:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5503440500">
+    <dc:type>term added</dc:type>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+    <dc:description>Munnings, Sir (1500403670);</dc:description>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2008-08-16T17:20:37</prov:startedAtTime>
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500024825"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5501228064">
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2002-06-06T11:49:40</prov:startedAtTime>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500024825"/>
+    <dc:description>Munnings (1500068535);</dc:description>
+    <dc:type>term deleted</dc:type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5508380511">
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-10-20T16:04:50</prov:startedAtTime>
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500024825"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+    <dc:description>Munnings, Alfred, Sir (1501002349);</dc:description>
+    <dc:type>term added</dc:type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5508380510">
+    <dc:description>Munnings, Alfred J., Sir (1501002348);</dc:description>
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500024825"/>
+    <dc:type>term added</dc:type>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-10-20T16:04:50</prov:startedAtTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rel/500024825-agentType-300025136">
+    <rdf:subject rdf:resource="http://vocab.getty.edu/ulan/500024825"/>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">2</gvp:displayOrder>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement"/>
+    <rdf:predicate rdf:resource="http://vocab.getty.edu/ontology#agentTypeNonPreferred"/>
+    <rdf:object rdf:resource="http://vocab.getty.edu/aat/300025136"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/term/1500403670">
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000124"/>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">7</gvp:displayOrder>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100045787"/>
+    <gvp:term>Munnings, Sir</gvp:term>
+    <dc:identifier>1500403670</dc:identifier>
+    <gvp:contributorNonPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000124"/>
+    <skosxl:literalForm>Munnings, Sir</skosxl:literalForm>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000130"/>
+    <gvp:contributorNonPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000130"/>
+    <gvp:termFlag rdf:resource="http://vocab.getty.edu/term/flag/Vernacular"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rel/500024825-agentType-300386217">
+    <rdf:subject rdf:resource="http://vocab.getty.edu/ulan/500024825"/>
+    <rdf:predicate rdf:resource="http://vocab.getty.edu/ontology#agentTypeNonPreferred"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement"/>
+    <rdf:object rdf:resource="http://vocab.getty.edu/aat/300386217"/>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">4</gvp:displayOrder>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/bio/4000063460">
+    <schema:gender rdf:resource="http://vocab.getty.edu/aat/300189559"/>
+    <gvp:estEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1959-01-01</gvp:estEnd>
+    <rdf:type rdf:resource="http://vocab.getty.edu/ontology#Biography"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000005"/>
+    <gvp:estStart rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1878-01-01</gvp:estStart>
+    <schema:description>British painter, 1878-1959</schema:description>
+    <schema:birthPlace rdf:resource="http://vocab.getty.edu/tgn/7008185-place"/>
+    <schema:deathPlace rdf:resource="http://vocab.getty.edu/tgn/4003203-place"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5504551635">
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+    <dc:description>Munnings, Alfred J., Sir (1500561215);</dc:description>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-08-06T11:04:25</prov:startedAtTime>
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500024825"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <dc:type>term deleted</dc:type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5501228063">
+    <dc:type>updated</dc:type>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500024825"/>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2002-06-06T11:49:40</prov:startedAtTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5501228065">
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2002-06-06T11:50:52</prov:startedAtTime>
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500024825"/>
+    <dc:type>updated</dc:type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5504551634">
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-08-06T11:04:25</prov:startedAtTime>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+    <dc:type>updated</dc:type>
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500024825"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/term/1501002350">
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <skosxl:literalForm>munnings, sir alfred</skosxl:literalForm>
+    <gvp:term>munnings, sir alfred</gvp:term>
+    <gvp:contributorNonPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">17</gvp:displayOrder>
+    <gvp:historicFlag rdf:resource="http://vocab.getty.edu/historic/localUse"/>
+    <dc:identifier>1501002350</dc:identifier>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100043316"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5508380513">
+    <dc:type>term added</dc:type>
+    <dc:description>sir alfred munnings (1501002352);</dc:description>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-10-20T16:04:50</prov:startedAtTime>
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500024825"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5508380509">
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <dc:type>term added</dc:type>
+    <dc:description>Munnings, Alfred James, Sir (1501002351);</dc:description>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-10-20T16:04:50</prov:startedAtTime>
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500024825"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/term/1501002351">
+    <gvp:contributorNonPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <dc:identifier>1501002351</dc:identifier>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100043316"/>
+    <gvp:term>Munnings, Alfred James, Sir</gvp:term>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">14</gvp:displayOrder>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <skosxl:literalForm>Munnings, Alfred James, Sir</skosxl:literalForm>
+    <gvp:historicFlag rdf:resource="http://vocab.getty.edu/historic/localUse"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/bio/4000471314">
+    <gvp:estStart rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1878-01-01</gvp:estStart>
+    <schema:description>English painter, 1878-1959</schema:description>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000189"/>
+    <rdf:type rdf:resource="http://vocab.getty.edu/ontology#Biography"/>
+    <schema:gender rdf:resource="http://vocab.getty.edu/aat/300400512"/>
+    <gvp:estEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1959-01-01</gvp:estEnd>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/bio/4000300784">
+    <rdf:type rdf:resource="http://vocab.getty.edu/ontology#Biography"/>
+    <schema:birthPlace rdf:resource="http://vocab.getty.edu/tgn/7008185-place"/>
+    <schema:description>British artist, 1878-1959</schema:description>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000130"/>
+    <gvp:estEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1959-01-01</gvp:estEnd>
+    <schema:gender rdf:resource="http://vocab.getty.edu/aat/300189559"/>
+    <schema:deathPlace rdf:resource="http://vocab.getty.edu/tgn/4003203-place"/>
+    <gvp:estStart rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1878-01-01</gvp:estStart>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5501605793">
+    <dc:description>Munnings, Sir Alfred James (1500068541);</dc:description>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+    <dc:type>term deleted</dc:type>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500024825"/>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2003-02-04T13:06:06</prov:startedAtTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5508380507">
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+    <dc:type>term added</dc:type>
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500024825"/>
+    <dc:description>Munnings (1501002346);</dc:description>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-10-20T16:04:50</prov:startedAtTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/source/2100156593-subject-500024825">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/DocumentPart"/>
+    <dct:isPartOf rdf:resource="http://vocab.getty.edu/ulan/source/2100156593"/>
+    <bibo:locator>LOC ID: n86800463</bibo:locator>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5500068602">
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1990-05-16T00:00:00</prov:startedAtTime>
+    <dc:type>created</dc:type>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Create"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5508380506">
+    <dc:type>term added</dc:type>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+    <dc:description>alfred munnings (1501002353);</dc:description>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-10-20T16:04:50</prov:startedAtTime>
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500024825"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5508380508">
+    <dc:description>munnings, alfred (1501002345);</dc:description>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-10-20T16:04:50</prov:startedAtTime>
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500024825"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+    <dc:type>term added</dc:type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5508380505">
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+    <dc:type>term added</dc:type>
+    <dc:description>alfred j. munnings (1501002355);</dc:description>
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500024825"/>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-10-20T16:04:50</prov:startedAtTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rel/500024825-agentType-300025103">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement"/>
+    <rdf:subject rdf:resource="http://vocab.getty.edu/ulan/500024825"/>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">1</gvp:displayOrder>
+    <rdf:predicate rdf:resource="http://vocab.getty.edu/ontology#agentTypePreferred"/>
+    <rdf:object rdf:resource="http://vocab.getty.edu/aat/300025103"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5508689722">
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-11-02T10:40:56</prov:startedAtTime>
+    <dc:type>note updated</dc:type>
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500024825"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+    <dc:description>Language: English (70051)</dc:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/500024825-nationality-300111159">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement"/>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">1</gvp:displayOrder>
+    <rdf:subject rdf:resource="http://vocab.getty.edu/ulan/500024825-agent"/>
+    <rdf:predicate rdf:resource="http://vocab.getty.edu/ontology#nationalityPreferred"/>
+    <rdf:object rdf:resource="http://vocab.getty.edu/aat/300111159"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/scopeNote/142276">
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <rdf:type rdf:resource="http://vocab.getty.edu/ontology#ScopeNote"/>
+    <rdf:value xml:lang="en">Comment on works: Horses; Racehorses</rdf:value>
+    <dct:language rdf:resource="http://vocab.getty.edu/aat/300388277"/>
+    <dc:identifier>142276</dc:identifier>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100043316"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5500068605">
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <dc:type>created</dc:type>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1989-12-22T00:00:00</prov:startedAtTime>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Create"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/bio/4000387911">
+    <schema:gender rdf:resource="http://vocab.getty.edu/aat/300189559"/>
+    <gvp:estStart rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1878-01-01</gvp:estStart>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000008"/>
+    <rdf:type rdf:resource="http://vocab.getty.edu/ontology#Biography"/>
+    <schema:description>British painter, 1878-1959</schema:description>
+    <gvp:estEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1959-01-01</gvp:estEnd>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5508380504">
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-10-20T16:04:50</prov:startedAtTime>
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500024825"/>
+    <dc:description>a.j. munnings (1501002354);</dc:description>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <dc:type>term added</dc:type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5504551636">
+    <dc:type>term deleted</dc:type>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <dc:description>Munnings, Alfred James, Sir (1500561216);</dc:description>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-08-06T11:04:25</prov:startedAtTime>
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500024825"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/term/1501002345">
+    <skosxl:literalForm>munnings, alfred</skosxl:literalForm>
+    <gvp:historicFlag rdf:resource="http://vocab.getty.edu/historic/localUse"/>
+    <gvp:contributorNonPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <dc:identifier>1501002345</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <gvp:term>munnings, alfred</gvp:term>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">13</gvp:displayOrder>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100043316"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/event/190467">
+    <dct:type rdf:resource="http://vocab.getty.edu/aat/300393177"/>
+    <schema:location rdf:resource="http://vocab.getty.edu/tgn/7008116-place"/>
+    <rdf:type rdf:resource="http://purl.org/vocab/bio/0.1/Event"/>
+    <rdf:type rdf:resource="http://schema.org/Event"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/term/1501002349">
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100043316"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">16</gvp:displayOrder>
+    <gvp:contributorNonPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <skosxl:literalForm>Munnings, Alfred, Sir</skosxl:literalForm>
+    <gvp:historicFlag rdf:resource="http://vocab.getty.edu/historic/localUse"/>
+    <dc:identifier>1501002349</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <gvp:term>Munnings, Alfred, Sir</gvp:term>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5504551592">
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-08-06T11:01:01</prov:startedAtTime>
+    <dc:type>term added</dc:type>
+    <dc:description>Munnings, Alfred James, Sir (1500561216);</dc:description>
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500024825"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/bio/4000063459">
+    <schema:gender rdf:resource="http://vocab.getty.edu/aat/300189559"/>
+    <gvp:estStart rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1878-01-01</gvp:estStart>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000003"/>
+    <schema:description>British, 1878-1959</schema:description>
+    <gvp:estEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1959-01-01</gvp:estEnd>
+    <rdf:type rdf:resource="http://vocab.getty.edu/ontology#Biography"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/event/190464">
+    <rdf:type rdf:resource="http://purl.org/vocab/bio/0.1/Event"/>
+    <rdf:type rdf:resource="http://schema.org/Event"/>
+    <schema:location rdf:resource="http://vocab.getty.edu/tgn/7459773-place"/>
+    <dct:type rdf:resource="http://vocab.getty.edu/aat/300393177"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/bio/4000063461">
+    <schema:description>British painter, 1878-1959</schema:description>
+    <rdf:type rdf:resource="http://vocab.getty.edu/ontology#Biography"/>
+    <schema:gender rdf:resource="http://vocab.getty.edu/aat/300189559"/>
+    <gvp:estEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1959-01-01</gvp:estEnd>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <gvp:estStart rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1878-01-01</gvp:estStart>
+  </rdf:Description>
+</rdf:RDF>

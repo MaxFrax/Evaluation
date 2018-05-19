@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:j.0="http://www.w3.org/2004/02/skos/core#"
+   xmlns:j.1="http://erlangen-crm.org/current/"
+   xmlns:j.2="http://collection.britishmuseum.org/id/ontology/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/person-institution/2478">
+    <j.0:altLabel>Th. Wyck</j.0:altLabel>
+    <j.0:altLabel>F. Wych</j.0:altLabel>
+    <j.0:altLabel>Thomas Wyk</j.0:altLabel>
+    <j.0:altLabel>Tomas Wijk</j.0:altLabel>
+    <j.0:altLabel>Old Wyke</j.0:altLabel>
+    <j.0:altLabel>Thomas Wyke</j.0:altLabel>
+    <j.0:altLabel>Thomas Wick</j.0:altLabel>
+    <j.2:PX_gender rdf:resource="http://collection.britishart.yale.edu/id/thesauri/gender/male"/>
+    <j.0:altLabel>Thomas Wijk</j.0:altLabel>
+    <j.1:P100i_died_in rdf:resource="http://collection.britishart.yale.edu/id/person-institution/2478/death"/>
+    <j.0:altLabel>Tho. Wyck</j.0:altLabel>
+    <j.0:altLabel>Thomas van Wijk</j.0:altLabel>
+    <j.0:altLabel>Thomas Wycke</j.0:altLabel>
+    <j.2:PX_nationality rdf:resource="http://collection.britishart.yale.edu/id/thesauri/nationality/dutch"/>
+    <j.0:inScheme rdf:resource="http://collection.britishart.yale.edu/id/thesauri/person-institution/"/>
+    <j.0:altLabel>Old Wyck</j.0:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <j.1:P98i_was_born rdf:resource="http://collection.britishart.yale.edu/id/person-institution/2478/birth"/>
+    <j.0:altLabel>Old Wycke</j.0:altLabel>
+    <rdf:type rdf:resource="http://erlangen-crm.org/current/E21_Person"/>
+    <j.0:prefLabel>Thomas Wyck</j.0:prefLabel>
+    <j.0:altLabel>Thomas Wich</j.0:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/data/person-institution/2478">
+    <foaf:primaryTopic rdf:resource="http://collection.britishart.yale.edu/id/person-institution/2478"/>
+    <rdfs:label>RDF description of </rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/14687/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/2478"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/15009/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/2478"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://collection.britishart.yale.edu/id/object/15008/production/1">
+    <j.1:P14_carried_out_by rdf:resource="http://collection.britishart.yale.edu/id/person-institution/2478"/>
+  </rdf:Description>
+</rdf:RDF>

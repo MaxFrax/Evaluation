@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:bibo="http://purl.org/ontology/bibo/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:gvp="http://vocab.getty.edu/ontology#"
+   xmlns:prov="http://www.w3.org/ns/prov#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:schema="http://schema.org/"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:skosxl="http://www.w3.org/2008/05/skos-xl#"
+   xmlns:void="http://rdfs.org/ns/void#"
+>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/source/2100149014-subject-500012641">
+    <bibo:locator>LOC ID: nr97040961</bibo:locator>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/DocumentPart"/>
+    <dct:isPartOf rdf:resource="http://vocab.getty.edu/ulan/source/2100149014"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/500012641">
+    <skos:mappingRelation rdf:resource="http://vocab.getty.edu/ulan/500012641"/>
+    <gvp:agentTypeNonPreferred rdf:resource="http://vocab.getty.edu/aat/300112172"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-02-18T19:54:58</dct:modified>
+    <prov:wasGeneratedBy rdf:resource="http://vocab.getty.edu/ulan/rev/5500034990"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5503653515"/>
+    <dc:identifier>500012641</dc:identifier>
+    <gvp:agentTypeNonPreferred rdf:resource="http://vocab.getty.edu/aat/300024987"/>
+    <void:inDataset rdf:resource="http://vocab.getty.edu/dataset/ulan"/>
+    <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1989-12-22T00:00:00</dct:created>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100153979"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000013"/>
+    <skos:closeMatch rdf:resource="http://id.loc.gov/authorities/names/nr97040961"/>
+    <prov:wasGeneratedBy rdf:resource="http://vocab.getty.edu/ulan/rev/5500034992"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5503653244"/>
+    <gvp:broaderPreferredExtended rdf:resource="http://vocab.getty.edu/ulan/500000002"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000189"/>
+    <gvp:agentType rdf:resource="http://vocab.getty.edu/aat/300112172"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000001"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000130"/>
+    <rdfs:seeAlso rdf:resource="http://www.getty.edu/vow/ULANFullDisplay?find=&amp;role=&amp;nation=&amp;subjectid=500012641"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-11-12T10:22:07</dct:modified>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000256"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-06-16T02:45:07</dct:modified>
+    <skos:mappingRelation rdf:resource="http://id.loc.gov/authorities/names/nr97040961"/>
+    <gvp:agentTypePreferred rdf:resource="http://vocab.getty.edu/aat/300025103"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1999-11-09T00:00:00</dct:modified>
+    <gvp:broaderInstantial rdf:resource="http://vocab.getty.edu/ulan/500000002"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-06-16T02:45:05</dct:modified>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-11-12T10:22:24</dct:modified>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5503653515"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5500034992"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2008-09-18T15:12:18</dct:modified>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5504246857"/>
+    <cc:license rdf:resource="http://opendatacommons.org/licenses/by/1.0/"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000008"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5504246855"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100156593-subject-500012641"/>
+    <rdf:type rdf:resource="http://vocab.getty.edu/ontology#Subject"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000012"/>
+    <skos:exactMatch rdf:resource="http://vocab.getty.edu/ulan/500012641"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5500034991"/>
+    <skos:inScheme rdf:resource="http://vocab.getty.edu/ulan/"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2008-09-18T14:21:57</dct:modified>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Borra, Giovanni Battista</skos:prefLabel>
+    <skosxl:altLabel rdf:resource="http://vocab.getty.edu/ulan/term/1500471366"/>
+    <gvp:broaderPreferred rdf:resource="http://vocab.getty.edu/ulan/500000002"/>
+    <rdfs:label>Giovanni Battista Borra</rdfs:label>
+    <gvp:broaderInstantialExtended rdf:resource="http://vocab.getty.edu/ulan/500000002"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000003"/>
+    <gvp:agentTypeNonPreferred rdf:resource="http://vocab.getty.edu/aat/300025492"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5504246855"/>
+    <gvp:broader rdf:resource="http://vocab.getty.edu/ulan/500000002"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5500034992"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5505373782"/>
+    <gvp:broaderExtended rdf:resource="http://vocab.getty.edu/ulan/500000002"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5500034990"/>
+    <gvp:agentType rdf:resource="http://vocab.getty.edu/aat/300025063"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000005"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5505373713"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5500034991"/>
+    <prov:wasGeneratedBy rdf:resource="http://vocab.getty.edu/ulan/rev/5500034989"/>
+    <gvp:parentString>Persons, Artists</gvp:parentString>
+    <gvp:agentType rdf:resource="http://vocab.getty.edu/aat/300025492"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5503652895"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5500034990"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2008-09-18T14:22:00</dct:modified>
+    <skosxl:prefLabel rdf:resource="http://vocab.getty.edu/ulan/term/1500035570"/>
+    <prov:wasGeneratedBy rdf:resource="http://vocab.getty.edu/ulan/rev/5500034991"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100149014-subject-500012641"/>
+    <skos:closeMatch rdf:resource="http://vocab.getty.edu/ulan/500012641"/>
+    <skos:altLabel>Giovanni Battista Borra</skos:altLabel>
+    <gvp:prefLabelGVP rdf:resource="http://vocab.getty.edu/ulan/term/1500035570"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5500034988"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2008-09-18T15:42:46</dct:modified>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100157824"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100153972"/>
+    <dct:license rdf:resource="http://opendatacommons.org/licenses/by/1.0/"/>
+    <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1999-04-19T00:00:00</dct:created>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5505585519"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5503652900"/>
+    <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1990-05-05T00:00:00</dct:created>
+    <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1990-02-01T00:00:00</dct:created>
+    <gvp:agentTypeNonPreferred rdf:resource="http://vocab.getty.edu/aat/300025063"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5503652895"/>
+    <gvp:parentStringAbbrev>Persons, Artists</gvp:parentStringAbbrev>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5500034989"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5505373782"/>
+    <gvp:agentType rdf:resource="http://vocab.getty.edu/aat/300024987"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5505373718"/>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">20807</gvp:displayOrder>
+    <rdfs:label>Borra, Giovanni Battista</rdfs:label>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5500034988"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5503653244"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5505373713"/>
+    <rdf:type rdf:resource="http://vocab.getty.edu/ontology#PersonConcept"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100154640"/>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/nr97040961"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100039894"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5505585519"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100045787"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5503652900"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-11-12T10:27:32</dct:modified>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5500034989"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5504246857"/>
+    <gvp:agentType rdf:resource="http://vocab.getty.edu/aat/300025103"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5505373718"/>
+    <foaf:focus rdf:resource="http://vocab.getty.edu/ulan/500012641-agent"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5500034990">
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Create"/>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1989-12-22T00:00:00</prov:startedAtTime>
+    <dc:type>created</dc:type>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5503653515">
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2008-09-18T15:42:46</prov:startedAtTime>
+    <dc:type>updated</dc:type>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500012641"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5500034989">
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Create"/>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1990-02-01T00:00:00</prov:startedAtTime>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <dc:type>created</dc:type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/term/1500035570">
+    <gvp:contributorPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000003"/>
+    <gvp:contributorPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000008"/>
+    <skosxl:literalForm>Borra, Giovanni Battista</skosxl:literalForm>
+    <gvp:contributorPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000189"/>
+    <gvp:termDisplay rdf:resource="http://vocab.getty.edu/term/display/Indexing"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100154640"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000012"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100149014-term-1500035570"/>
+    <gvp:sourcePreferred rdf:resource="http://vocab.getty.edu/ulan/source/2100154640"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000130"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000005"/>
+    <gvp:sourcePreferred rdf:resource="http://vocab.getty.edu/ulan/source/2100149014-term-1500035570"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100042658"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000189"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000003"/>
+    <gvp:term>Borra, Giovanni Battista</gvp:term>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100153979"/>
+    <gvp:contributorPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000001"/>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">1</gvp:displayOrder>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <gvp:termFlag rdf:resource="http://vocab.getty.edu/term/flag/Vernacular"/>
+    <gvp:contributorPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000130"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100045787"/>
+    <gvp:contributorPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000012"/>
+    <gvp:sourcePreferred rdf:resource="http://vocab.getty.edu/ulan/source/2100042658"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000001"/>
+    <gvp:contributorPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000005"/>
+    <dc:identifier>1500035570</dc:identifier>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000008"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rel/500012641-agentType-300025063">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement"/>
+    <rdf:predicate rdf:resource="http://vocab.getty.edu/ontology#agentTypeNonPreferred"/>
+    <rdf:subject rdf:resource="http://vocab.getty.edu/ulan/500012641"/>
+    <rdf:object rdf:resource="http://vocab.getty.edu/aat/300025063"/>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">4</gvp:displayOrder>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rel/500012641-agentType-300024987">
+    <rdf:object rdf:resource="http://vocab.getty.edu/aat/300024987"/>
+    <rdf:subject rdf:resource="http://vocab.getty.edu/ulan/500012641"/>
+    <rdf:predicate rdf:resource="http://vocab.getty.edu/ontology#agentTypeNonPreferred"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement"/>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">2</gvp:displayOrder>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rel/500012641-agentType-300112172">
+    <rdf:subject rdf:resource="http://vocab.getty.edu/ulan/500012641"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement"/>
+    <rdf:predicate rdf:resource="http://vocab.getty.edu/ontology#agentTypeNonPreferred"/>
+    <rdf:object rdf:resource="http://vocab.getty.edu/aat/300112172"/>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">3</gvp:displayOrder>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/source/2100149014-term-1500035570">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/DocumentPart"/>
+    <bibo:locator>nr 97040961</bibo:locator>
+    <dct:isPartOf rdf:resource="http://vocab.getty.edu/ulan/source/2100149014"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/source/2100156593-subject-500012641">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/DocumentPart"/>
+    <bibo:locator>LOC ID: nr97040961</bibo:locator>
+    <dct:isPartOf rdf:resource="http://vocab.getty.edu/ulan/source/2100156593"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/bio/4000032318">
+    <schema:gender rdf:resource="http://vocab.getty.edu/aat/300189559"/>
+    <rdf:type rdf:resource="http://vocab.getty.edu/ontology#Biography"/>
+    <schema:description>Italian draughtsman 1747-1786</schema:description>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000003"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/500012641-agent">
+    <schema:nationality rdf:resource="http://vocab.getty.edu/aat/300111198"/>
+    <gvp:biographyNonPreferred rdf:resource="http://vocab.getty.edu/ulan/bio/4000032318"/>
+    <gvp:biographyNonPreferred rdf:resource="http://vocab.getty.edu/ulan/bio/4000032319"/>
+    <gvp:biography rdf:resource="http://vocab.getty.edu/ulan/bio/4000032319"/>
+    <gvp:nationalityPreferred rdf:resource="http://vocab.getty.edu/aat/300111198"/>
+    <gvp:biography rdf:resource="http://vocab.getty.edu/ulan/bio/4000032316"/>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <void:inDataset rdf:resource="http://vocab.getty.edu/dataset/ulan"/>
+    <gvp:biography rdf:resource="http://vocab.getty.edu/ulan/bio/4000032318"/>
+    <gvp:biographyNonPreferred rdf:resource="http://vocab.getty.edu/ulan/bio/4000383983"/>
+    <gvp:biographyPreferred rdf:resource="http://vocab.getty.edu/ulan/bio/4000463056"/>
+    <gvp:biographyNonPreferred rdf:resource="http://vocab.getty.edu/ulan/bio/4000498040"/>
+    <cc:license rdf:resource="http://opendatacommons.org/licenses/by/1.0/"/>
+    <gvp:biography rdf:resource="http://vocab.getty.edu/ulan/bio/4000383983"/>
+    <gvp:biographyNonPreferred rdf:resource="http://vocab.getty.edu/ulan/bio/4000032316"/>
+    <gvp:biography rdf:resource="http://vocab.getty.edu/ulan/bio/4000463056"/>
+    <gvp:biography rdf:resource="http://vocab.getty.edu/ulan/bio/4000318785"/>
+    <gvp:biography rdf:resource="http://vocab.getty.edu/ulan/bio/4000032317"/>
+    <dct:license rdf:resource="http://opendatacommons.org/licenses/by/1.0/"/>
+    <gvp:biographyNonPreferred rdf:resource="http://vocab.getty.edu/ulan/bio/4000032317"/>
+    <gvp:biography rdf:resource="http://vocab.getty.edu/ulan/bio/4000498040"/>
+    <gvp:biographyNonPreferred rdf:resource="http://vocab.getty.edu/ulan/bio/4000318785"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5503652895">
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2008-09-18T14:21:57</prov:startedAtTime>
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500012641"/>
+    <dc:description>Giovanni Battista Borra (1500471366);</dc:description>
+    <dc:type>term added</dc:type>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5500034992">
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Create"/>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1999-04-19T00:00:00</prov:startedAtTime>
+    <dc:type>created</dc:type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/term/1500471366">
+    <gvp:termFlag rdf:resource="http://vocab.getty.edu/term/flag/Vernacular"/>
+    <dc:identifier>1500471366</dc:identifier>
+    <gvp:term>Giovanni Battista Borra</gvp:term>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000130"/>
+    <gvp:termDisplay rdf:resource="http://vocab.getty.edu/term/display/Display"/>
+    <skosxl:literalForm>Giovanni Battista Borra</skosxl:literalForm>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000013"/>
+    <gvp:contributorNonPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000013"/>
+    <gvp:sourceNonPreferred rdf:resource="http://vocab.getty.edu/ulan/source/2100039894"/>
+    <gvp:contributorNonPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000189"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100039894"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000189"/>
+    <gvp:contributorNonPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000130"/>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">2</gvp:displayOrder>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rel/500012641-agentType-300025492">
+    <rdf:subject rdf:resource="http://vocab.getty.edu/ulan/500012641"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement"/>
+    <rdf:predicate rdf:resource="http://vocab.getty.edu/ontology#agentTypeNonPreferred"/>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">5</gvp:displayOrder>
+    <rdf:object rdf:resource="http://vocab.getty.edu/aat/300025492"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/bio/4000318785">
+    <rdf:type rdf:resource="http://vocab.getty.edu/ontology#Biography"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000130"/>
+    <schema:description>Italian artist, 19th century</schema:description>
+    <schema:gender rdf:resource="http://vocab.getty.edu/aat/300189559"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5505373782">
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+    <dc:type>updated</dc:type>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-11-12T10:27:32</prov:startedAtTime>
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500012641"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5500034991">
+    <dc:type>created</dc:type>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1990-05-05T00:00:00</prov:startedAtTime>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Create"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5505373713">
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+    <dc:type>updated</dc:type>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-11-12T10:22:07</prov:startedAtTime>
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500012641"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/bio/4000032317">
+    <schema:gender rdf:resource="http://vocab.getty.edu/aat/300189559"/>
+    <rdf:type rdf:resource="http://vocab.getty.edu/ontology#Biography"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000005"/>
+    <schema:description>Italian architect, 1712-1786</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5504246855">
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-06-16T02:45:05</prov:startedAtTime>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <dc:description>Language: </dc:description>
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500012641"/>
+    <dc:type>note created</dc:type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5503653244">
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2008-09-18T15:12:18</prov:startedAtTime>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+    <dc:type>updated</dc:type>
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500012641"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/bio/4000463056">
+    <gvp:estEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1770-01-01</gvp:estEnd>
+    <gvp:estStart rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1713-01-01</gvp:estStart>
+    <rdf:type rdf:resource="http://vocab.getty.edu/ontology#Biography"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000189"/>
+    <schema:description>Italian architect, 1713-1770</schema:description>
+    <schema:gender rdf:resource="http://vocab.getty.edu/aat/300189559"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rel/500012641-agentType-300025103">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement"/>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">1</gvp:displayOrder>
+    <rdf:object rdf:resource="http://vocab.getty.edu/aat/300025103"/>
+    <rdf:subject rdf:resource="http://vocab.getty.edu/ulan/500012641"/>
+    <rdf:predicate rdf:resource="http://vocab.getty.edu/ontology#agentTypePreferred"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/bio/4000498040">
+    <schema:description>artist, 1713-1770</schema:description>
+    <gvp:estStart rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1713-01-01</gvp:estStart>
+    <gvp:estEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1770-01-01</gvp:estEnd>
+    <rdf:type rdf:resource="http://vocab.getty.edu/ontology#Biography"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000012"/>
+    <schema:gender rdf:resource="http://vocab.getty.edu/aat/300400512"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/bio/4000032319">
+    <schema:gender rdf:resource="http://vocab.getty.edu/aat/300189559"/>
+    <rdf:type rdf:resource="http://vocab.getty.edu/ontology#Biography"/>
+    <schema:description>Italian artist, 19th cent.</schema:description>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/bio/4000383983">
+    <schema:description>Italian architect, 1712-1786</schema:description>
+    <rdf:type rdf:resource="http://vocab.getty.edu/ontology#Biography"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000008"/>
+    <schema:gender rdf:resource="http://vocab.getty.edu/aat/300400512"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/bio/4000032316">
+    <schema:gender rdf:resource="http://vocab.getty.edu/aat/300189559"/>
+    <rdf:type rdf:resource="http://vocab.getty.edu/ontology#Biography"/>
+    <schema:description>Italian architect and author, 1712-1786</schema:description>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000008"/>
+  </rdf:Description>
+</rdf:RDF>
