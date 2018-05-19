@@ -1,0 +1,869 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:bibo="http://purl.org/ontology/bibo/"
+   xmlns:bio="http://purl.org/vocab/bio/0.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:gvp="http://vocab.getty.edu/ontology#"
+   xmlns:prov="http://www.w3.org/ns/prov#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:schema="http://schema.org/"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:skosxl="http://www.w3.org/2008/05/skos-xl#"
+   xmlns:void="http://rdfs.org/ns/void#"
+>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5508139895">
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500032263"/>
+    <dc:type>term added</dc:type>
+    <dc:description>Stubbs, R.A. (1500972654);</dc:description>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-10-20T12:25:55</prov:startedAtTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/500032263">
+    <gvp:broaderPreferredExtended rdf:resource="http://vocab.getty.edu/ulan/500000002"/>
+    <dct:license rdf:resource="http://opendatacommons.org/licenses/by/1.0/"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5508139895"/>
+    <rdfs:label>George Stubs</rdfs:label>
+    <gvp:broader rdf:resource="http://vocab.getty.edu/ulan/500000002"/>
+    <skosxl:altLabel rdf:resource="http://vocab.getty.edu/ulan/term/1500972656"/>
+    <skos:prefLabel>Stubbs, George</skos:prefLabel>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5500089129"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000002"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5505564109"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100156698-subject-500032263"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000256"/>
+    <skos:altLabel>George Stubbs</skos:altLabel>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100046495"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5507196745"/>
+    <skos:closeMatch rdf:resource="http://id.loc.gov/authorities/names/n50010543"/>
+    <dc:identifier>500032263</dc:identifier>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5502641561"/>
+    <rdfs:label>stubbs geo</rdfs:label>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-11-05T17:13:34</dct:modified>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5507126936"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5502641567"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5508139896"/>
+    <prov:wasGeneratedBy rdf:resource="http://vocab.getty.edu/ulan/rev/5500089126"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5508139890"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5501556761"/>
+    <rdfs:label>George Stubbs</rdfs:label>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5500089126"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000189"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5508139888"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-11-02T10:40:13</dct:modified>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">168421</gvp:displayOrder>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000001"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5508139894"/>
+    <gvp:broaderInstantial rdf:resource="http://vocab.getty.edu/ulan/500000002"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5508139911"/>
+    <gvp:agentType rdf:resource="http://vocab.getty.edu/aat/300112172"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5500089126"/>
+    <gvp:agentTypeNonPreferred rdf:resource="http://vocab.getty.edu/aat/300112172"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5508139891"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2005-10-24T16:36:25</dct:modified>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-09-28T20:25:38</dct:modified>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5501556763"/>
+    <skosxl:altLabel rdf:resource="http://vocab.getty.edu/ulan/term/1500972654"/>
+    <skosxl:altLabel rdf:resource="http://vocab.getty.edu/ulan/term/1500972652"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5508139911"/>
+    <skosxl:altLabel rdf:resource="http://vocab.getty.edu/ulan/term/1500088852"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-01-26T09:10:06</dct:modified>
+    <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1990-04-06T00:00:00</dct:created>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5501556761"/>
+    <skos:altLabel>stubbs g.</skos:altLabel>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000005"/>
+    <gvp:agentTypeNonPreferred rdf:resource="http://vocab.getty.edu/aat/300025164"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5508139891"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5508675583"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100153979"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000003"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000012"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-08-12T14:15:14</dct:modified>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100042297"/>
+    <rdfs:label>stubbs g.</rdfs:label>
+    <skosxl:altLabel rdf:resource="http://vocab.getty.edu/ulan/term/1500088853"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5508139892"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5507714862"/>
+    <skosxl:altLabel rdf:resource="http://vocab.getty.edu/ulan/term/1500972657"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5507714862"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <gvp:prefLabelGVP rdf:resource="http://vocab.getty.edu/ulan/term/1500088851"/>
+    <rdfs:seeAlso rdf:resource="http://www.getty.edu/vow/ULANFullDisplay?find=&amp;role=&amp;nation=&amp;subjectid=500032263"/>
+    <skosxl:prefLabel rdf:resource="http://vocab.getty.edu/ulan/term/1500088851"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5500089127"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5502641561"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100043316"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5508139924"/>
+    <foaf:focus rdf:resource="http://vocab.getty.edu/ulan/500032263-agent"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5508139896"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2008-08-16T19:22:11</dct:modified>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5503491017"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5505346924"/>
+    <skos:altLabel>G. Stubbs</skos:altLabel>
+    <skosxl:altLabel rdf:resource="http://vocab.getty.edu/ulan/term/1500088849"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2002-11-19T13:17:25</dct:modified>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-03-28T10:22:57</dct:modified>
+    <rdfs:label>Stubbs, George</rdfs:label>
+    <skosxl:altLabel rdf:resource="http://vocab.getty.edu/ulan/term/1500972649"/>
+    <gvp:broaderExtended rdf:resource="http://vocab.getty.edu/ulan/500000002"/>
+    <gvp:agentTypeNonPreferred rdf:resource="http://vocab.getty.edu/aat/300025136"/>
+    <skos:related rdf:resource="http://vocab.getty.edu/ulan/500025592"/>
+    <gvp:agentType rdf:resource="http://vocab.getty.edu/aat/300025136"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5502641566"/>
+    <skos:closeMatch rdf:resource="http://vocab.getty.edu/ulan/500032263"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5508139889"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5503491017"/>
+    <rdf:type rdf:resource="http://vocab.getty.edu/ontology#PersonConcept"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5500089128"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5501556763"/>
+    <skosxl:altLabel rdf:resource="http://vocab.getty.edu/ulan/term/1500972653"/>
+    <skosxl:altLabel rdf:resource="http://vocab.getty.edu/ulan/term/1500972658"/>
+    <skos:inScheme rdf:resource="http://vocab.getty.edu/ulan/"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100042266"/>
+    <skos:altLabel>geo. f. stubbs</skos:altLabel>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5502641566"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5508139889"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000016"/>
+    <void:inDataset rdf:resource="http://vocab.getty.edu/dataset/ulan"/>
+    <rdfs:label>geo stubbs</rdfs:label>
+    <skos:mappingRelation rdf:resource="http://id.loc.gov/authorities/names/n50010543"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000130"/>
+    <skos:altLabel>Mr. Stubbs</skos:altLabel>
+    <skos:altLabel>stubbs geo</skos:altLabel>
+    <skosxl:altLabel rdf:resource="http://vocab.getty.edu/ulan/term/1500972648"/>
+    <skos:related rdf:resource="http://vocab.getty.edu/ulan/500029699"/>
+    <rdfs:label>Stubs</rdfs:label>
+    <rdfs:label>Stubbs</rdfs:label>
+    <rdfs:label>geo. f. stubbs</rdfs:label>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5505564109"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5505346924"/>
+    <gvp:agentTypePreferred rdf:resource="http://vocab.getty.edu/aat/300025103"/>
+    <rdfs:label>Stubbs, R.A.</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <gvp:agentType rdf:resource="http://vocab.getty.edu/aat/300025103"/>
+    <skos:altLabel>George Stubs</skos:altLabel>
+    <skosxl:altLabel rdf:resource="http://vocab.getty.edu/ulan/term/1500972651"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5508675583"/>
+    <skos:altLabel>Stubbs</skos:altLabel>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5508139892"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5500089128"/>
+    <gvp:parentStringAbbrev>Persons, Artists</gvp:parentStringAbbrev>
+    <skos:mappingRelation rdf:resource="http://vocab.getty.edu/ulan/500032263"/>
+    <gvp:agentType rdf:resource="http://vocab.getty.edu/aat/300203630"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5509038850"/>
+    <skos:altLabel>Stubbs, R.A.</skos:altLabel>
+    <skos:altLabel>Stubs</skos:altLabel>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5508139893"/>
+    <skos:altLabel>George Stubbs, R. A.</skos:altLabel>
+    <skos:exactMatch rdf:resource="http://vocab.getty.edu/ulan/500032263"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5508139894"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5508139924"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-10-20T12:25:55</dct:modified>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2005-10-24T16:37:49</dct:modified>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100149014-subject-500032263"/>
+    <prov:wasGeneratedBy rdf:resource="http://vocab.getty.edu/ulan/rev/5500089128"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5508139887"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5501556760"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5509038850"/>
+    <gvp:broaderPreferred rdf:resource="http://vocab.getty.edu/ulan/500000002"/>
+    <skos:altLabel>geo stubbs</skos:altLabel>
+    <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1989-12-22T00:00:00</dct:created>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100158442"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100154640"/>
+    <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1990-01-05T00:00:00</dct:created>
+    <rdfs:label>Mr. Stubbs</rdfs:label>
+    <prov:wasGeneratedBy rdf:resource="http://vocab.getty.edu/ulan/rev/5500089125"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5501556762"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5508139887"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5501556760"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100156593-subject-500032263"/>
+    <gvp:ulan1202_patron_was rdf:resource="http://vocab.getty.edu/ulan/500356950"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5507196745"/>
+    <gvp:broaderInstantialExtended rdf:resource="http://vocab.getty.edu/ulan/500000002"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-02-18T15:55:07</dct:modified>
+    <gvp:agentTypeNonPreferred rdf:resource="http://vocab.getty.edu/aat/300203630"/>
+    <rdf:type rdf:resource="http://vocab.getty.edu/ontology#Subject"/>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n50010543"/>
+    <prov:wasGeneratedBy rdf:resource="http://vocab.getty.edu/ulan/rev/5500089127"/>
+    <prov:wasGeneratedBy rdf:resource="http://vocab.getty.edu/ulan/rev/5500089129"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5501556762"/>
+    <rdfs:label>G. Stubbs</rdfs:label>
+    <gvp:ulan1512_parent_of rdf:resource="http://vocab.getty.edu/ulan/500029699"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5500089129"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5508139890"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/scopeNote/34321"/>
+    <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1990-05-05T00:00:00</dct:created>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5502641567"/>
+    <skos:altLabel>geo. stubbs</skos:altLabel>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5508139893"/>
+    <gvp:ulan1105_apprentice_of rdf:resource="http://vocab.getty.edu/ulan/500025592"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5500089127"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100045787"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000013"/>
+    <cc:license rdf:resource="http://opendatacommons.org/licenses/by/1.0/"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5500089125"/>
+    <skos:related rdf:resource="http://vocab.getty.edu/ulan/500356950"/>
+    <gvp:parentString>Persons, Artists</gvp:parentString>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5508139895"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5507126936"/>
+    <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1990-05-16T00:00:00</dct:created>
+    <skosxl:altLabel rdf:resource="http://vocab.getty.edu/ulan/term/1500972655"/>
+    <rdfs:label>geo. stubbs</rdfs:label>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5500089125"/>
+    <rdfs:label>George Stubbs, R. A.</rdfs:label>
+    <gvp:agentType rdf:resource="http://vocab.getty.edu/aat/300025164"/>
+    <gvp:agentTypeNonPreferred rdf:resource="http://vocab.getty.edu/aat/300237351"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100155617"/>
+    <gvp:agentType rdf:resource="http://vocab.getty.edu/aat/300237351"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5508139888"/>
+    <skos:scopeNote rdf:resource="http://vocab.getty.edu/ulan/scopeNote/34321"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5508139890">
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500032263"/>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-10-20T12:25:55</prov:startedAtTime>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <dc:description>G. Stubbs (1500972652);</dc:description>
+    <dc:type>term added</dc:type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/term/1500972657">
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <gvp:historicFlag rdf:resource="http://vocab.getty.edu/historic/localUse"/>
+    <gvp:contributorNonPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <skosxl:literalForm>geo. f. stubbs</skosxl:literalForm>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">5</gvp:displayOrder>
+    <dc:identifier>1500972657</dc:identifier>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100043316"/>
+    <gvp:term>geo. f. stubbs</gvp:term>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/term/1500088851">
+    <gvp:contributorPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000189"/>
+    <gvp:contributorPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000003"/>
+    <gvp:termFlag rdf:resource="http://vocab.getty.edu/term/flag/Vernacular"/>
+    <gvp:contributorPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000001"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100149014-term-1500088851"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100158442"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000001"/>
+    <gvp:contributorPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <gvp:sourcePreferred rdf:resource="http://vocab.getty.edu/ulan/source/2100158442"/>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">1</gvp:displayOrder>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <gvp:contributorPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000130"/>
+    <gvp:sourcePreferred rdf:resource="http://vocab.getty.edu/ulan/source/2100043316"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000002"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000003"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000005"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000130"/>
+    <gvp:contributorPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000005"/>
+    <dc:identifier>1500088851</dc:identifier>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100043316"/>
+    <gvp:contributorPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000012"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100045787"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000189"/>
+    <gvp:termDisplay rdf:resource="http://vocab.getty.edu/term/display/Indexing"/>
+    <gvp:sourcePreferred rdf:resource="http://vocab.getty.edu/ulan/source/2100154640"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100154640"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000012"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100046495"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000016"/>
+    <gvp:term>Stubbs, George</gvp:term>
+    <skosxl:literalForm>Stubbs, George</skosxl:literalForm>
+    <gvp:contributorPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000002"/>
+    <gvp:sourcePreferred rdf:resource="http://vocab.getty.edu/ulan/source/2100149014-term-1500088851"/>
+    <gvp:contributorPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000016"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5500089127">
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1990-05-05T00:00:00</prov:startedAtTime>
+    <dc:type>created</dc:type>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Create"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5508139889">
+    <dc:description>geo. stubbs (1500972651);</dc:description>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-10-20T12:25:55</prov:startedAtTime>
+    <dc:type>term added</dc:type>
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500032263"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/source/2100149014-term-1500088851">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/DocumentPart"/>
+    <dct:isPartOf rdf:resource="http://vocab.getty.edu/ulan/source/2100149014"/>
+    <bibo:locator>n 50010543</bibo:locator>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/term/1500972649">
+    <gvp:historicFlag rdf:resource="http://vocab.getty.edu/historic/localUse"/>
+    <skosxl:literalForm>geo stubbs</skosxl:literalForm>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <gvp:term>geo stubbs</gvp:term>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">6</gvp:displayOrder>
+    <dc:identifier>1500972649</dc:identifier>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100043316"/>
+    <gvp:contributorNonPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/500032263-agent">
+    <gvp:biographyNonPreferred rdf:resource="http://vocab.getty.edu/ulan/bio/4000082484"/>
+    <cc:license rdf:resource="http://opendatacommons.org/licenses/by/1.0/"/>
+    <gvp:biographyNonPreferred rdf:resource="http://vocab.getty.edu/ulan/bio/4000562858"/>
+    <gvp:nationalityPreferred rdf:resource="http://vocab.getty.edu/aat/300111159"/>
+    <gvp:biography rdf:resource="http://vocab.getty.edu/ulan/bio/4000082486"/>
+    <gvp:biographyNonPreferred rdf:resource="http://vocab.getty.edu/ulan/bio/4000474927"/>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <gvp:biography rdf:resource="http://vocab.getty.edu/ulan/bio/4000532948"/>
+    <gvp:biography rdf:resource="http://vocab.getty.edu/ulan/bio/4000562858"/>
+    <gvp:biography rdf:resource="http://vocab.getty.edu/ulan/bio/4000308689"/>
+    <gvp:biographyNonPreferred rdf:resource="http://vocab.getty.edu/ulan/bio/4000082488"/>
+    <gvp:biography rdf:resource="http://vocab.getty.edu/ulan/bio/4000474927"/>
+    <schema:nationality rdf:resource="http://vocab.getty.edu/aat/300111159"/>
+    <gvp:biographyNonPreferred rdf:resource="http://vocab.getty.edu/ulan/bio/4000308689"/>
+    <gvp:biographyNonPreferred rdf:resource="http://vocab.getty.edu/ulan/bio/4000493169"/>
+    <gvp:biography rdf:resource="http://vocab.getty.edu/ulan/bio/4000239848"/>
+    <gvp:biographyNonPreferred rdf:resource="http://vocab.getty.edu/ulan/bio/4000082487"/>
+    <gvp:biography rdf:resource="http://vocab.getty.edu/ulan/bio/4000493169"/>
+    <gvp:biographyNonPreferred rdf:resource="http://vocab.getty.edu/ulan/bio/4000082485"/>
+    <gvp:biography rdf:resource="http://vocab.getty.edu/ulan/bio/4000082487"/>
+    <gvp:biography rdf:resource="http://vocab.getty.edu/ulan/bio/4000082488"/>
+    <gvp:biography rdf:resource="http://vocab.getty.edu/ulan/bio/4000578686"/>
+    <schema:nationality rdf:resource="http://vocab.getty.edu/aat/300111178"/>
+    <gvp:biographyNonPreferred rdf:resource="http://vocab.getty.edu/ulan/bio/4000578686"/>
+    <gvp:biography rdf:resource="http://vocab.getty.edu/ulan/bio/4000082484"/>
+    <gvp:biography rdf:resource="http://vocab.getty.edu/ulan/bio/4000082485"/>
+    <gvp:eventPreferred rdf:resource="http://vocab.getty.edu/ulan/event/205693"/>
+    <gvp:biographyPreferred rdf:resource="http://vocab.getty.edu/ulan/bio/4000239848"/>
+    <gvp:biographyNonPreferred rdf:resource="http://vocab.getty.edu/ulan/bio/4000532948"/>
+    <void:inDataset rdf:resource="http://vocab.getty.edu/dataset/ulan"/>
+    <dct:license rdf:resource="http://opendatacommons.org/licenses/by/1.0/"/>
+    <bio:event rdf:resource="http://vocab.getty.edu/ulan/event/205693"/>
+    <gvp:nationalityNonPreferred rdf:resource="http://vocab.getty.edu/aat/300111178"/>
+    <gvp:biographyNonPreferred rdf:resource="http://vocab.getty.edu/ulan/bio/4000082486"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5500089125">
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1990-01-05T00:00:00</prov:startedAtTime>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Create"/>
+    <dc:type>created</dc:type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/bio/4000082487">
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000001"/>
+    <rdf:type rdf:resource="http://vocab.getty.edu/ontology#Biography"/>
+    <schema:description>British artist, 1724-1806</schema:description>
+    <gvp:estStart rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1724-01-01</gvp:estStart>
+    <schema:gender rdf:resource="http://vocab.getty.edu/aat/300189559"/>
+    <gvp:estEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1806-01-01</gvp:estEnd>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/bio/4000532948">
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <gvp:estEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1806-01-01</gvp:estEnd>
+    <rdf:type rdf:resource="http://vocab.getty.edu/ontology#Biography"/>
+    <gvp:estStart rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1724-01-01</gvp:estStart>
+    <schema:description>British owner, 1724-1806</schema:description>
+    <schema:gender rdf:resource="http://vocab.getty.edu/aat/300400512"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5508139887">
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <dc:type>term added</dc:type>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-10-20T12:25:55</prov:startedAtTime>
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500032263"/>
+    <dc:description>geo. f. stubbs (1500972657);</dc:description>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/term/1500972654">
+    <gvp:term>Stubbs, R.A.</gvp:term>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <skosxl:literalForm>Stubbs, R.A.</skosxl:literalForm>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">13</gvp:displayOrder>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <dc:identifier>1500972654</dc:identifier>
+    <gvp:historicFlag rdf:resource="http://vocab.getty.edu/historic/localUse"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100043316"/>
+    <gvp:contributorNonPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/source/2100149014-subject-500032263">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/DocumentPart"/>
+    <dct:isPartOf rdf:resource="http://vocab.getty.edu/ulan/source/2100149014"/>
+    <bibo:locator>LOC ID: n50010543</bibo:locator>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/term/1500088852">
+    <gvp:estStart rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1781-01-01</gvp:estStart>
+    <skosxl:literalForm>George Stubbs, R. A.</skosxl:literalForm>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">3</gvp:displayOrder>
+    <gvp:contributorNonPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000013"/>
+    <gvp:termFlag rdf:resource="http://vocab.getty.edu/term/flag/Vernacular"/>
+    <dc:identifier>1500088852</dc:identifier>
+    <gvp:sourceNonPreferred rdf:resource="http://vocab.getty.edu/ulan/source/2100042266"/>
+    <gvp:contributorNonPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <gvp:estEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1781-01-01</gvp:estEnd>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000013"/>
+    <rdfs:comment>made a Royal Academician in 1781</rdfs:comment>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100042266"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <gvp:term>George Stubbs, R. A.</gvp:term>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/source/2100156698-subject-500032263">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/DocumentPart"/>
+    <dct:isPartOf rdf:resource="http://vocab.getty.edu/ulan/source/2100156698"/>
+    <bibo:locator>accessed 19 November 2002</bibo:locator>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5502641567">
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500032263"/>
+    <dc:description>Stubbs, George (500032263) 'apprentice of' Winstanley, Hamlet (500025592);</dc:description>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+    <dc:type>relation added</dc:type>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2005-10-24T16:37:49</prov:startedAtTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/term/1500972655">
+    <gvp:historicFlag rdf:resource="http://vocab.getty.edu/historic/localUse"/>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">9</gvp:displayOrder>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <gvp:term>Mr. Stubbs</gvp:term>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100043316"/>
+    <gvp:contributorNonPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <skosxl:literalForm>Mr. Stubbs</skosxl:literalForm>
+    <dc:identifier>1500972655</dc:identifier>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rel/500032263-agentType-300237351">
+    <rdf:predicate rdf:resource="http://vocab.getty.edu/ontology#agentTypeNonPreferred"/>
+    <rdf:object rdf:resource="http://vocab.getty.edu/aat/300237351"/>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">5</gvp:displayOrder>
+    <rdf:subject rdf:resource="http://vocab.getty.edu/ulan/500032263"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/scopeNote/34321">
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000130"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100043316"/>
+    <dct:language rdf:resource="http://vocab.getty.edu/aat/300388277"/>
+    <rdf:value xml:lang="en">Stubbs was a popular painter of horses and dogs who enjoyed many commissions in London throughout the second half of the 18th century. He was elected R.A. in 1781, but this title was removed as he declined to submit a diploma picture. Comment on works: Animals, Sporting</rdf:value>
+    <rdf:type rdf:resource="http://vocab.getty.edu/ontology#ScopeNote"/>
+    <dc:identifier>34321</dc:identifier>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100156698-scopeNote-34321"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000013"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5508139891">
+    <dc:description>Mr. Stubbs (1500972655);</dc:description>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-10-20T12:25:55</prov:startedAtTime>
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500032263"/>
+    <dc:type>term added</dc:type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/bio/4000239848">
+    <rdf:type rdf:resource="http://vocab.getty.edu/ontology#Biography"/>
+    <schema:deathPlace rdf:resource="http://vocab.getty.edu/tgn/7011781-place"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000013"/>
+    <schema:birthPlace rdf:resource="http://vocab.getty.edu/tgn/1003614-place"/>
+    <schema:description>English painter, 1724-1806</schema:description>
+    <gvp:estStart rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1724-01-01</gvp:estStart>
+    <schema:gender rdf:resource="http://vocab.getty.edu/aat/300189559"/>
+    <gvp:estEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1806-01-01</gvp:estEnd>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/term/1500088849">
+    <skosxl:literalForm>George Stubbs</skosxl:literalForm>
+    <gvp:contributorNonPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <dc:identifier>1500088849</dc:identifier>
+    <gvp:sourceNonPreferred rdf:resource="http://vocab.getty.edu/ulan/source/2100039894"/>
+    <gvp:term>George Stubbs</gvp:term>
+    <gvp:termDisplay rdf:resource="http://vocab.getty.edu/term/display/Display"/>
+    <gvp:sourceNonPreferred rdf:resource="http://vocab.getty.edu/ulan/source/2100043316"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100042266"/>
+    <gvp:sourceNonPreferred rdf:resource="http://vocab.getty.edu/ulan/source/2100042266"/>
+    <gvp:termFlag rdf:resource="http://vocab.getty.edu/term/flag/Vernacular"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100043316"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000013"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <gvp:contributorNonPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000013"/>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">2</gvp:displayOrder>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100039894"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/500032263-nationality-300111178">
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">2</gvp:displayOrder>
+    <rdf:subject rdf:resource="http://vocab.getty.edu/ulan/500032263-agent"/>
+    <rdf:object rdf:resource="http://vocab.getty.edu/aat/300111178"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement"/>
+    <rdf:predicate rdf:resource="http://vocab.getty.edu/ontology#nationalityNonPreferred"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/bio/4000493169">
+    <schema:gender rdf:resource="http://vocab.getty.edu/aat/300400512"/>
+    <gvp:estStart rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1724-01-01</gvp:estStart>
+    <schema:description>artist, 1724-1806</schema:description>
+    <rdf:type rdf:resource="http://vocab.getty.edu/ontology#Biography"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000012"/>
+    <gvp:estEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1806-01-01</gvp:estEnd>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/term/1500088853">
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000013"/>
+    <gvp:termFlag rdf:resource="http://vocab.getty.edu/term/flag/Vernacular"/>
+    <gvp:contributorNonPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <skosxl:literalForm>George Stubs</skosxl:literalForm>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">4</gvp:displayOrder>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100042266"/>
+    <gvp:contributorNonPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000013"/>
+    <dc:identifier>1500088853</dc:identifier>
+    <gvp:sourceNonPreferred rdf:resource="http://vocab.getty.edu/ulan/source/2100042266"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <gvp:term>George Stubs</gvp:term>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5500089126">
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1990-04-06T00:00:00</prov:startedAtTime>
+    <dc:type>created</dc:type>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Create"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/term/1500972656">
+    <gvp:term>stubbs g.</gvp:term>
+    <gvp:historicFlag rdf:resource="http://vocab.getty.edu/historic/localUse"/>
+    <gvp:contributorNonPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">11</gvp:displayOrder>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100043316"/>
+    <dc:identifier>1500972656</dc:identifier>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <skosxl:literalForm>stubbs g.</skosxl:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5502641566">
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2005-10-24T16:37:49</prov:startedAtTime>
+    <dc:type>updated</dc:type>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500032263"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5508139911">
+    <dc:description>Language: English (70051)</dc:description>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+    <dc:type>note updated</dc:type>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-10-20T12:25:55</prov:startedAtTime>
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500032263"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5508139892">
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <dc:description>Stubbs (1500972648);</dc:description>
+    <dc:type>term added</dc:type>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-10-20T12:25:55</prov:startedAtTime>
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500032263"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5502641561">
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500032263"/>
+    <dc:type>updated</dc:type>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2005-10-24T16:36:25</prov:startedAtTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/source/2100156698-scopeNote-34321">
+    <bibo:locator>accessed 19 November 2002</bibo:locator>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/DocumentPart"/>
+    <dct:isPartOf rdf:resource="http://vocab.getty.edu/ulan/source/2100156698"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/bio/4000082485">
+    <schema:gender rdf:resource="http://vocab.getty.edu/aat/300189559"/>
+    <rdf:type rdf:resource="http://vocab.getty.edu/ontology#Biography"/>
+    <gvp:estEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1806-01-01</gvp:estEnd>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000003"/>
+    <gvp:estStart rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1724-01-01</gvp:estStart>
+    <schema:description>British, 1724-1806</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/term/1500972653">
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <gvp:term>Stubs</gvp:term>
+    <skosxl:literalForm>Stubs</skosxl:literalForm>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100043316"/>
+    <gvp:contributorNonPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">14</gvp:displayOrder>
+    <dc:identifier>1500972653</dc:identifier>
+    <gvp:historicFlag rdf:resource="http://vocab.getty.edu/historic/localUse"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rel/500032263-ulan1105_apprentice_of-500025592">
+    <gvp:estEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1742-01-01</gvp:estEnd>
+    <rdf:object rdf:resource="http://vocab.getty.edu/ulan/500025592"/>
+    <gvp:estStart rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1740-01-01</gvp:estStart>
+    <rdf:subject rdf:resource="http://vocab.getty.edu/ulan/500032263"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement"/>
+    <rdf:predicate rdf:resource="http://vocab.getty.edu/ontology#ulan1105_apprentice_of"/>
+    <rdfs:comment>ca. 1741</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5508139896">
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-10-20T12:25:55</prov:startedAtTime>
+    <dc:type>term added</dc:type>
+    <dc:description>Stubs (1500972653);</dc:description>
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500032263"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5501556762">
+    <dc:type>term deleted</dc:type>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2002-11-19T13:17:25</prov:startedAtTime>
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500032263"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+    <dc:description>G. Stubbs (1500088848);</dc:description>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5500089129">
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Create"/>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1989-12-22T00:00:00</prov:startedAtTime>
+    <dc:type>created</dc:type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5508139888">
+    <dc:type>term added</dc:type>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-10-20T12:25:55</prov:startedAtTime>
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500032263"/>
+    <dc:description>geo stubbs (1500972649);</dc:description>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/event/205693">
+    <dct:type rdf:resource="http://vocab.getty.edu/aat/300393177"/>
+    <rdf:type rdf:resource="http://purl.org/vocab/bio/0.1/Event"/>
+    <rdf:type rdf:resource="http://schema.org/Event"/>
+    <schema:location rdf:resource="http://vocab.getty.edu/tgn/7011781-place"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/bio/4000474927">
+    <schema:description>English painter, 1724-1806</schema:description>
+    <rdf:type rdf:resource="http://vocab.getty.edu/ontology#Biography"/>
+    <schema:gender rdf:resource="http://vocab.getty.edu/aat/300400512"/>
+    <gvp:estStart rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1724-01-01</gvp:estStart>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000189"/>
+    <gvp:estEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1806-01-01</gvp:estEnd>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/term/1500972652">
+    <gvp:historicFlag rdf:resource="http://vocab.getty.edu/historic/localUse"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <skosxl:literalForm>G. Stubbs</skosxl:literalForm>
+    <gvp:term>G. Stubbs</gvp:term>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100043316"/>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">8</gvp:displayOrder>
+    <gvp:contributorNonPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <dc:identifier>1500972652</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/term/1500972651">
+    <gvp:term>geo. stubbs</gvp:term>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <gvp:historicFlag rdf:resource="http://vocab.getty.edu/historic/localUse"/>
+    <gvp:contributorNonPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <skosxl:literalForm>geo. stubbs</skosxl:literalForm>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">7</gvp:displayOrder>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <dc:identifier>1500972651</dc:identifier>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100043316"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5501556761">
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <dc:type>updated</dc:type>
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500032263"/>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2002-11-19T13:17:25</prov:startedAtTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5508139893">
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-10-20T12:25:55</prov:startedAtTime>
+    <dc:type>term added</dc:type>
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500032263"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <dc:description>stubbs g. (1500972656);</dc:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/bio/4000082484">
+    <gvp:estEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1806-01-01</gvp:estEnd>
+    <schema:gender rdf:resource="http://vocab.getty.edu/aat/300189559"/>
+    <gvp:estStart rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1724-01-01</gvp:estStart>
+    <schema:deathPlace rdf:resource="http://vocab.getty.edu/tgn/7011781-place"/>
+    <rdf:type rdf:resource="http://vocab.getty.edu/ontology#Biography"/>
+    <schema:description>British painter, 1724-1806</schema:description>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000005"/>
+    <schema:birthPlace rdf:resource="http://vocab.getty.edu/tgn/1003614-place"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5507196745">
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500032263"/>
+    <dc:description>Stubbs, George (500032263) 'patron was' Vyner, Reverend Thomas (500356950);</dc:description>
+    <dc:type>relation added</dc:type>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-09-28T20:25:38</prov:startedAtTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/bio/4000562858">
+    <schema:gender rdf:resource="http://vocab.getty.edu/aat/300400512"/>
+    <gvp:estStart rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">0001-01-01</gvp:estStart>
+    <schema:description>Unknown artist</schema:description>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <gvp:estEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2100-01-01</gvp:estEnd>
+    <rdf:type rdf:resource="http://vocab.getty.edu/ontology#Biography"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/term/1500972648">
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <gvp:term>Stubbs</gvp:term>
+    <dc:identifier>1500972648</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">10</gvp:displayOrder>
+    <gvp:contributorNonPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <gvp:historicFlag rdf:resource="http://vocab.getty.edu/historic/localUse"/>
+    <skosxl:literalForm>Stubbs</skosxl:literalForm>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100043316"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5508675583">
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-11-02T10:40:13</prov:startedAtTime>
+    <dc:type>note updated</dc:type>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500032263"/>
+    <dc:description>Language: English (70051)</dc:description>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5501556763">
+    <dc:type>term deleted</dc:type>
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500032263"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+    <dc:description>Stubbs (1500088850);</dc:description>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2002-11-19T13:17:25</prov:startedAtTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/bio/4000082488">
+    <gvp:estEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1806-01-01</gvp:estEnd>
+    <gvp:estStart rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1724-01-01</gvp:estStart>
+    <schema:description>British artist, 1724-1806</schema:description>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000002"/>
+    <schema:deathPlace rdf:resource="http://vocab.getty.edu/tgn/7011781-place"/>
+    <rdf:type rdf:resource="http://vocab.getty.edu/ontology#Biography"/>
+    <schema:birthPlace rdf:resource="http://vocab.getty.edu/tgn/1003614-place"/>
+    <schema:gender rdf:resource="http://vocab.getty.edu/aat/300189559"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5507126936">
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500032263"/>
+    <dc:description>Stubbs, George (500032263) 'patron was' Vyner, Reverend Thomas (500356950);</dc:description>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-08-12T14:15:14</prov:startedAtTime>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <dc:type>relation added</dc:type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5501556760">
+    <dc:type>note created</dc:type>
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500032263"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <dc:description>Language: </dc:description>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2002-11-19T13:17:25</prov:startedAtTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rel/500032263-agentType-300112172">
+    <rdf:predicate rdf:resource="http://vocab.getty.edu/ontology#agentTypeNonPreferred"/>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">3</gvp:displayOrder>
+    <rdf:subject rdf:resource="http://vocab.getty.edu/ulan/500032263"/>
+    <rdf:object rdf:resource="http://vocab.getty.edu/aat/300112172"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/source/2100156593-subject-500032263">
+    <bibo:locator>LOC ID: n50010543</bibo:locator>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/DocumentPart"/>
+    <dct:isPartOf rdf:resource="http://vocab.getty.edu/ulan/source/2100156593"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rel/500032263-ulan1512_parent_of-500029699">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement"/>
+    <rdf:subject rdf:resource="http://vocab.getty.edu/ulan/500032263"/>
+    <rdf:predicate rdf:resource="http://vocab.getty.edu/ontology#ulan1512_parent_of"/>
+    <rdf:object rdf:resource="http://vocab.getty.edu/ulan/500029699"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5500089128">
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Create"/>
+    <dc:type>created</dc:type>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1990-05-16T00:00:00</prov:startedAtTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rel/500032263-agentType-300025136">
+    <rdf:predicate rdf:resource="http://vocab.getty.edu/ontology#agentTypeNonPreferred"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement"/>
+    <rdf:object rdf:resource="http://vocab.getty.edu/aat/300025136"/>
+    <rdf:subject rdf:resource="http://vocab.getty.edu/ulan/500032263"/>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">2</gvp:displayOrder>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rel/500032263-agentType-300203630">
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">6</gvp:displayOrder>
+    <rdf:subject rdf:resource="http://vocab.getty.edu/ulan/500032263"/>
+    <rdf:object rdf:resource="http://vocab.getty.edu/aat/300203630"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement"/>
+    <rdf:predicate rdf:resource="http://vocab.getty.edu/ontology#agentTypeNonPreferred"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5508139894">
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+    <dc:type>term added</dc:type>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-10-20T12:25:55</prov:startedAtTime>
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500032263"/>
+    <dc:description>stubbs geo (1500972658);</dc:description>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/bio/4000082486">
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <rdf:type rdf:resource="http://vocab.getty.edu/ontology#Biography"/>
+    <schema:description>British painter, 1724-1806</schema:description>
+    <gvp:estStart rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1724-01-01</gvp:estStart>
+    <schema:gender rdf:resource="http://vocab.getty.edu/aat/300189559"/>
+    <gvp:estEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1806-01-01</gvp:estEnd>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rel/500032263-ulan1202_patron_was-500356950">
+    <rdf:subject rdf:resource="http://vocab.getty.edu/ulan/500032263"/>
+    <rdf:predicate rdf:resource="http://vocab.getty.edu/ontology#ulan1202_patron_was"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement"/>
+    <rdf:object rdf:resource="http://vocab.getty.edu/ulan/500356950"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/term/1500972658">
+    <gvp:term>stubbs geo</gvp:term>
+    <gvp:historicFlag rdf:resource="http://vocab.getty.edu/historic/localUse"/>
+    <dc:identifier>1500972658</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100043316"/>
+    <gvp:contributorNonPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <skosxl:literalForm>stubbs geo</skosxl:literalForm>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">12</gvp:displayOrder>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/500032263-nationality-300111159">
+    <rdf:subject rdf:resource="http://vocab.getty.edu/ulan/500032263-agent"/>
+    <rdf:object rdf:resource="http://vocab.getty.edu/aat/300111159"/>
+    <rdf:predicate rdf:resource="http://vocab.getty.edu/ontology#nationalityPreferred"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement"/>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">1</gvp:displayOrder>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rel/500032263-agentType-300025103">
+    <rdf:object rdf:resource="http://vocab.getty.edu/aat/300025103"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement"/>
+    <rdf:subject rdf:resource="http://vocab.getty.edu/ulan/500032263"/>
+    <rdf:predicate rdf:resource="http://vocab.getty.edu/ontology#agentTypePreferred"/>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">1</gvp:displayOrder>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/bio/4000308689">
+    <schema:birthPlace rdf:resource="http://vocab.getty.edu/tgn/7010597-place"/>
+    <gvp:estEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1806-01-01</gvp:estEnd>
+    <schema:gender rdf:resource="http://vocab.getty.edu/aat/300189559"/>
+    <schema:deathPlace rdf:resource="http://vocab.getty.edu/tgn/7011781-place"/>
+    <gvp:estStart rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1724-01-01</gvp:estStart>
+    <rdf:type rdf:resource="http://vocab.getty.edu/ontology#Biography"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000130"/>
+    <schema:description>British artist, 1724-1806</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rel/500032263-agentType-300025164">
+    <rdf:object rdf:resource="http://vocab.getty.edu/aat/300025164"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement"/>
+    <rdf:subject rdf:resource="http://vocab.getty.edu/ulan/500032263"/>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">4</gvp:displayOrder>
+    <rdf:predicate rdf:resource="http://vocab.getty.edu/ontology#agentTypeNonPreferred"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/bio/4000578686">
+    <rdf:type rdf:resource="http://vocab.getty.edu/ontology#Biography"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000011"/>
+    <schema:gender rdf:resource="http://vocab.getty.edu/aat/300400512"/>
+    <gvp:estStart rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1724-01-01</gvp:estStart>
+    <schema:description>British artist, 1724-1806</schema:description>
+    <gvp:estEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1806-01-01</gvp:estEnd>
+  </rdf:Description>
+</rdf:RDF>

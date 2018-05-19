@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:bibo="http://purl.org/ontology/bibo/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:gvp="http://vocab.getty.edu/ontology#"
+   xmlns:prov="http://www.w3.org/ns/prov#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:schema="http://schema.org/"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:skosxl="http://www.w3.org/2008/05/skos-xl#"
+   xmlns:void="http://rdfs.org/ns/void#"
+>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/500016371">
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000007"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100156593-subject-500016371"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5500045343"/>
+    <gvp:parentString>Persons, Artists</gvp:parentString>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5503549866"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5505346669"/>
+    <gvp:prefLabelGVP rdf:resource="http://vocab.getty.edu/ulan/term/1500045672"/>
+    <skos:related rdf:resource="http://vocab.getty.edu/ulan/500001508"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-06-15T17:28:42</dct:modified>
+    <skosxl:altLabel rdf:resource="http://vocab.getty.edu/ulan/term/1500214119"/>
+    <dct:license rdf:resource="http://opendatacommons.org/licenses/by/1.0/"/>
+    <prov:wasGeneratedBy rdf:resource="http://vocab.getty.edu/ulan/rev/5500045342"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100153979"/>
+    <gvp:broaderInstantial rdf:resource="http://vocab.getty.edu/ulan/500000002"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100042297"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100153925"/>
+    <skos:exactMatch rdf:resource="http://id.loc.gov/authorities/names/n80113754"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5505346669"/>
+    <skos:closeMatch rdf:resource="http://id.loc.gov/authorities/names/n80113754"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5500045343"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5504113932"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2008-08-16T19:19:39</dct:modified>
+    <void:inDataset rdf:resource="http://vocab.getty.edu/dataset/ulan"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100042526-subject-500016371"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000256"/>
+    <dc:identifier>500016371</dc:identifier>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5500045342"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5503549866"/>
+    <gvp:parentStringAbbrev>Persons, Artists</gvp:parentStringAbbrev>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000124"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5500045345"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5500045344"/>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">168082</gvp:displayOrder>
+    <prov:wasGeneratedBy rdf:resource="http://vocab.getty.edu/ulan/rev/5500045345"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5502235705"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-06-15T17:28:44</dct:modified>
+    <rdf:type rdf:resource="http://vocab.getty.edu/ontology#Subject"/>
+    <gvp:broader rdf:resource="http://vocab.getty.edu/ulan/500000002"/>
+    <gvp:agentType rdf:resource="http://vocab.getty.edu/aat/300024987"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5501468599"/>
+    <skosxl:altLabel rdf:resource="http://vocab.getty.edu/ulan/term/1500728289"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5504113932"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5501468600"/>
+    <skos:scopeNote rdf:resource="http://vocab.getty.edu/ulan/scopeNote/32668"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2002-07-31T10:25:35</dct:modified>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5503490081"/>
+    <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1989-12-22T00:00:00</dct:created>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2004-04-29T17:35:23</dct:modified>
+    <cc:license rdf:resource="http://opendatacommons.org/licenses/by/1.0/"/>
+    <gvp:broaderPreferred rdf:resource="http://vocab.getty.edu/ulan/500000002"/>
+    <gvp:agentTypeNonPreferred rdf:resource="http://vocab.getty.edu/aat/300024987"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5500045341"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100042617"/>
+    <gvp:broaderExtended rdf:resource="http://vocab.getty.edu/ulan/500000002"/>
+    <rdfs:label>Street, George Edmund</rdfs:label>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5500045345"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000001"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5504113934"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5501468600"/>
+    <skos:altLabel>George Edmund Street</skos:altLabel>
+    <gvp:agentType rdf:resource="http://vocab.getty.edu/aat/300025103"/>
+    <skos:closeMatch rdf:resource="http://vocab.getty.edu/ulan/500016371"/>
+    <gvp:ulan1218_employee_was rdf:resource="http://vocab.getty.edu/ulan/500001508"/>
+    <skos:mappingRelation rdf:resource="http://id.loc.gov/authorities/names/n80113754"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000013"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2008-08-16T21:33:28</dct:modified>
+    <gvp:agentTypePreferred rdf:resource="http://vocab.getty.edu/aat/300025103"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5500045346"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100153972"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5505346663"/>
+    <prov:wasGeneratedBy rdf:resource="http://vocab.getty.edu/ulan/rev/5500045343"/>
+    <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1990-05-05T00:00:00</dct:created>
+    <skos:inScheme rdf:resource="http://vocab.getty.edu/ulan/"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000130"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skosxl:prefLabel rdf:resource="http://vocab.getty.edu/ulan/term/1500045672"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5500045346"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100045787"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5505346663"/>
+    <prov:wasGeneratedBy rdf:resource="http://vocab.getty.edu/ulan/rev/5500045346"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100149014-subject-500016371"/>
+    <prov:wasGeneratedBy rdf:resource="http://vocab.getty.edu/ulan/rev/5500045344"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5500045344"/>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5500045341"/>
+    <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1990-02-01T00:00:00</dct:created>
+    <skos:altLabel>Street, G. E.</skos:altLabel>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/rev/5501468599"/>
+    <gvp:broaderPreferredExtended rdf:resource="http://vocab.getty.edu/ulan/500000002"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5504113934"/>
+    <foaf:focus rdf:resource="http://vocab.getty.edu/ulan/500016371-agent"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000189"/>
+    <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1990-05-16T00:00:00</dct:created>
+    <skos:note rdf:resource="http://vocab.getty.edu/ulan/scopeNote/32668"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5503490081"/>
+    <rdf:type rdf:resource="http://vocab.getty.edu/ontology#PersonConcept"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5500045342"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100041249"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000008"/>
+    <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1998-08-26T00:00:00</dct:created>
+    <rdfs:label>George Edmund Street</rdfs:label>
+    <gvp:broaderInstantialExtended rdf:resource="http://vocab.getty.edu/ulan/500000002"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100039894"/>
+    <skos:prefLabel>Street, George Edmund</skos:prefLabel>
+    <skos:mappingRelation rdf:resource="http://vocab.getty.edu/ulan/500016371"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000005"/>
+    <skos:changeNote rdf:resource="http://vocab.getty.edu/ulan/rev/5502235705"/>
+    <rdfs:label>Street, G. E.</rdfs:label>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100154640"/>
+    <rdfs:seeAlso rdf:resource="http://www.getty.edu/vow/ULANFullDisplay?find=&amp;role=&amp;nation=&amp;subjectid=500016371"/>
+    <skos:exactMatch rdf:resource="http://vocab.getty.edu/ulan/500016371"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-11-05T17:11:32</dct:modified>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000002"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1998-08-26T00:00:00</dct:modified>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-11-05T17:11:35</dct:modified>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/bio/4000474896">
+    <rdf:type rdf:resource="http://vocab.getty.edu/ontology#Biography"/>
+    <gvp:estStart rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1824-01-01</gvp:estStart>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000189"/>
+    <schema:gender rdf:resource="http://vocab.getty.edu/aat/300400512"/>
+    <schema:description>English architect, 1824-1881</schema:description>
+    <gvp:estEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1881-01-01</gvp:estEnd>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/term/1500045672">
+    <gvp:termDisplay rdf:resource="http://vocab.getty.edu/term/display/Indexing"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000007"/>
+    <gvp:contributorPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000130"/>
+    <gvp:contributorPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000124"/>
+    <gvp:sourcePreferred rdf:resource="http://vocab.getty.edu/ulan/source/2100042658"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100042658"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100154640"/>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">1</gvp:displayOrder>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000008"/>
+    <skosxl:literalForm>Street, George Edmund</skosxl:literalForm>
+    <dc:identifier>1500045672</dc:identifier>
+    <gvp:contributorPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000008"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000124"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000002"/>
+    <gvp:termFlag rdf:resource="http://vocab.getty.edu/term/flag/Vernacular"/>
+    <gvp:contributorPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000002"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000001"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000005"/>
+    <gvp:sourceNonPreferred rdf:resource="http://vocab.getty.edu/ulan/source/2100154640"/>
+    <gvp:contributorNonPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000189"/>
+    <gvp:term>Street, George Edmund</gvp:term>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000130"/>
+    <gvp:contributorPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000007"/>
+    <gvp:contributorPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000001"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100042617"/>
+    <gvp:contributorPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000005"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100045787"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000189"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5501468600">
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2002-07-31T10:25:35</prov:startedAtTime>
+    <dc:description>George Edmund Street (1500214119);</dc:description>
+    <dc:type>term added</dc:type>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500016371"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/500016371-nationality-300111178">
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">2</gvp:displayOrder>
+    <rdf:predicate rdf:resource="http://vocab.getty.edu/ontology#nationalityNonPreferred"/>
+    <rdf:object rdf:resource="http://vocab.getty.edu/aat/300111178"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement"/>
+    <rdf:subject rdf:resource="http://vocab.getty.edu/ulan/500016371-agent"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/source/2100042526-scopeNote-32668">
+    <bibo:locator>44</bibo:locator>
+    <dct:isPartOf rdf:resource="http://vocab.getty.edu/ulan/source/2100042526"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/DocumentPart"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/bio/4000308547">
+    <schema:gender rdf:resource="http://vocab.getty.edu/aat/300400512"/>
+    <schema:description>British artist, 1824-1881</schema:description>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000130"/>
+    <gvp:estStart rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1824-01-01</gvp:estStart>
+    <gvp:estEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1881-01-01</gvp:estEnd>
+    <rdf:type rdf:resource="http://vocab.getty.edu/ontology#Biography"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5500045344">
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1990-05-16T00:00:00</prov:startedAtTime>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Create"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <dc:type>created</dc:type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5500045342">
+    <dc:type>created</dc:type>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Create"/>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1990-05-05T00:00:00</prov:startedAtTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5500045346">
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Create"/>
+    <dc:type>created</dc:type>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1998-08-26T00:00:00</prov:startedAtTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/500016371-nationality-300111159">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement"/>
+    <rdf:object rdf:resource="http://vocab.getty.edu/aat/300111159"/>
+    <rdf:subject rdf:resource="http://vocab.getty.edu/ulan/500016371-agent"/>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">1</gvp:displayOrder>
+    <rdf:predicate rdf:resource="http://vocab.getty.edu/ontology#nationalityPreferred"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/bio/4000041895">
+    <gvp:estStart rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1824-01-01</gvp:estStart>
+    <gvp:estEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1881-01-01</gvp:estEnd>
+    <schema:description>English architect; born Woodford (Essex, now Greater London, England, United Kingdom), 1824; died London (England, United Kingdom), 1881</schema:description>
+    <schema:birthPlace rdf:resource="http://vocab.getty.edu/tgn/7008136-place"/>
+    <schema:deathPlace rdf:resource="http://vocab.getty.edu/tgn/7011781-place"/>
+    <schema:gender rdf:resource="http://vocab.getty.edu/aat/300189559"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000007"/>
+    <rdf:type rdf:resource="http://vocab.getty.edu/ontology#Biography"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/term/1500728289">
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <dc:identifier>1500728289</dc:identifier>
+    <gvp:sourcePreferred rdf:resource="http://vocab.getty.edu/ulan/source/2100154640"/>
+    <gvp:term>Street, G. E.</gvp:term>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100154640"/>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">3</gvp:displayOrder>
+    <skosxl:literalForm>Street, G. E.</skosxl:literalForm>
+    <gvp:contributorPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000189"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000189"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rel/500016371-ulan1218_employee_was-500001508">
+    <rdf:subject rdf:resource="http://vocab.getty.edu/ulan/500016371"/>
+    <rdf:predicate rdf:resource="http://vocab.getty.edu/ontology#ulan1218_employee_was"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement"/>
+    <rdf:object rdf:resource="http://vocab.getty.edu/ulan/500001508"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/bio/4000041897">
+    <schema:description>British artist, 1824-1881</schema:description>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000002"/>
+    <gvp:estStart rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1824-01-01</gvp:estStart>
+    <gvp:estEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1881-01-01</gvp:estEnd>
+    <schema:gender rdf:resource="http://vocab.getty.edu/aat/300189559"/>
+    <rdf:type rdf:resource="http://vocab.getty.edu/ontology#Biography"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/source/2100153972-scopeNote-32668">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/DocumentPart"/>
+    <bibo:locator>137-138</bibo:locator>
+    <dct:isPartOf rdf:resource="http://vocab.getty.edu/ulan/source/2100153972"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/500016371-agent">
+    <gvp:biography rdf:resource="http://vocab.getty.edu/ulan/bio/4000474896"/>
+    <gvp:biography rdf:resource="http://vocab.getty.edu/ulan/bio/4000041894"/>
+    <gvp:biography rdf:resource="http://vocab.getty.edu/ulan/bio/4000041897"/>
+    <schema:nationality rdf:resource="http://vocab.getty.edu/aat/300111159"/>
+    <gvp:nationalityNonPreferred rdf:resource="http://vocab.getty.edu/aat/300111178"/>
+    <gvp:nationalityPreferred rdf:resource="http://vocab.getty.edu/aat/300111159"/>
+    <gvp:biographyNonPreferred rdf:resource="http://vocab.getty.edu/ulan/bio/4000041894"/>
+    <gvp:biographyNonPreferred rdf:resource="http://vocab.getty.edu/ulan/bio/4000319385"/>
+    <gvp:biographyNonPreferred rdf:resource="http://vocab.getty.edu/ulan/bio/4000474896"/>
+    <gvp:biographyNonPreferred rdf:resource="http://vocab.getty.edu/ulan/bio/4000308547"/>
+    <gvp:biographyNonPreferred rdf:resource="http://vocab.getty.edu/ulan/bio/4000041896"/>
+    <schema:nationality rdf:resource="http://vocab.getty.edu/aat/300111178"/>
+    <gvp:biographyNonPreferred rdf:resource="http://vocab.getty.edu/ulan/bio/4000041897"/>
+    <gvp:biography rdf:resource="http://vocab.getty.edu/ulan/bio/4000308547"/>
+    <gvp:biographyNonPreferred rdf:resource="http://vocab.getty.edu/ulan/bio/4000353799"/>
+    <gvp:biographyPreferred rdf:resource="http://vocab.getty.edu/ulan/bio/4000213216"/>
+    <cc:license rdf:resource="http://opendatacommons.org/licenses/by/1.0/"/>
+    <gvp:biography rdf:resource="http://vocab.getty.edu/ulan/bio/4000041895"/>
+    <gvp:biography rdf:resource="http://vocab.getty.edu/ulan/bio/4000353799"/>
+    <void:inDataset rdf:resource="http://vocab.getty.edu/dataset/ulan"/>
+    <gvp:biography rdf:resource="http://vocab.getty.edu/ulan/bio/4000213216"/>
+    <gvp:biography rdf:resource="http://vocab.getty.edu/ulan/bio/4000041896"/>
+    <gvp:biographyNonPreferred rdf:resource="http://vocab.getty.edu/ulan/bio/4000041895"/>
+    <gvp:biography rdf:resource="http://vocab.getty.edu/ulan/bio/4000319385"/>
+    <dct:license rdf:resource="http://opendatacommons.org/licenses/by/1.0/"/>
+    <gvp:biography rdf:resource="http://vocab.getty.edu/ulan/bio/4000041893"/>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <gvp:biographyNonPreferred rdf:resource="http://vocab.getty.edu/ulan/bio/4000041893"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/term/1500214119">
+    <gvp:termDisplay rdf:resource="http://vocab.getty.edu/term/display/Display"/>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">2</gvp:displayOrder>
+    <skosxl:literalForm>George Edmund Street</skosxl:literalForm>
+    <gvp:termFlag rdf:resource="http://vocab.getty.edu/term/flag/Vernacular"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100039894"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000013"/>
+    <gvp:sourceNonPreferred rdf:resource="http://vocab.getty.edu/ulan/source/2100039894"/>
+    <gvp:term>George Edmund Street</gvp:term>
+    <dc:identifier>1500214119</dc:identifier>
+    <gvp:contributorNonPreferred rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000013"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5504113932">
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500016371"/>
+    <dc:type>note updated</dc:type>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+    <dc:description>Language: </dc:description>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-06-15T17:28:42</prov:startedAtTime>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rel/500016371-agentType-300025103">
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">1</gvp:displayOrder>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement"/>
+    <rdf:object rdf:resource="http://vocab.getty.edu/aat/300025103"/>
+    <rdf:subject rdf:resource="http://vocab.getty.edu/ulan/500016371"/>
+    <rdf:predicate rdf:resource="http://vocab.getty.edu/ontology#agentTypePreferred"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/bio/4000319385">
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000124"/>
+    <schema:birthPlace rdf:resource="http://vocab.getty.edu/tgn/7030981-place"/>
+    <rdf:type rdf:resource="http://vocab.getty.edu/ontology#Biography"/>
+    <gvp:estEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1881-01-01</gvp:estEnd>
+    <schema:deathPlace rdf:resource="http://vocab.getty.edu/tgn/7011781-place"/>
+    <gvp:estStart rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1824-01-01</gvp:estStart>
+    <schema:description>British architect, 1824-1881</schema:description>
+    <schema:gender rdf:resource="http://vocab.getty.edu/aat/300400512"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rel/500016371-agentType-300024987">
+    <rdf:object rdf:resource="http://vocab.getty.edu/aat/300024987"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement"/>
+    <gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">2</gvp:displayOrder>
+    <rdf:subject rdf:resource="http://vocab.getty.edu/ulan/500016371"/>
+    <rdf:predicate rdf:resource="http://vocab.getty.edu/ontology#agentTypeNonPreferred"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/bio/4000353799">
+    <rdf:type rdf:resource="http://vocab.getty.edu/ontology#Biography"/>
+    <schema:description>British architect, 1824-1881</schema:description>
+    <gvp:estEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1881-01-01</gvp:estEnd>
+    <gvp:estStart rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1824-01-01</gvp:estStart>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000008"/>
+    <schema:gender rdf:resource="http://vocab.getty.edu/aat/300400512"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/bio/4000041896">
+    <rdf:type rdf:resource="http://vocab.getty.edu/ontology#Biography"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000001"/>
+    <schema:gender rdf:resource="http://vocab.getty.edu/aat/300189559"/>
+    <gvp:estEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1881-01-01</gvp:estEnd>
+    <gvp:estStart rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1824-01-01</gvp:estStart>
+    <schema:description>British artist, 1824-1881</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/source/2100042526-subject-500016371">
+    <bibo:locator>XIX</bibo:locator>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/DocumentPart"/>
+    <dct:isPartOf rdf:resource="http://vocab.getty.edu/ulan/source/2100042526"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/source/2100149014-subject-500016371">
+    <bibo:locator>LOC ID: n80113754</bibo:locator>
+    <dct:isPartOf rdf:resource="http://vocab.getty.edu/ulan/source/2100149014"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/DocumentPart"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/source/2100156593-subject-500016371">
+    <dct:isPartOf rdf:resource="http://vocab.getty.edu/ulan/source/2100156593"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/DocumentPart"/>
+    <bibo:locator>LOC ID: n80113754</bibo:locator>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/bio/4000041893">
+    <schema:description>British architect, 1824-1881</schema:description>
+    <gvp:estEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1881-01-01</gvp:estEnd>
+    <schema:gender rdf:resource="http://vocab.getty.edu/aat/300189559"/>
+    <rdf:type rdf:resource="http://vocab.getty.edu/ontology#Biography"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000008"/>
+    <gvp:estStart rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1824-01-01</gvp:estStart>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5501468599">
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500016371"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <dc:type>updated</dc:type>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2002-07-31T10:25:35</prov:startedAtTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5502235705">
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500016371"/>
+    <dc:type>updated</dc:type>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2004-04-29T17:35:23</prov:startedAtTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5505346663">
+    <prov:used rdf:resource="http://vocab.getty.edu/ulan/500016371"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <dc:type>term added</dc:type>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-11-05T17:11:32</prov:startedAtTime>
+    <dc:description>Street, G. E. (1500728289);</dc:description>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/bio/4000041894">
+    <rdf:type rdf:resource="http://vocab.getty.edu/ontology#Biography"/>
+    <schema:description>British architect, 1824-1881</schema:description>
+    <schema:gender rdf:resource="http://vocab.getty.edu/aat/300189559"/>
+    <gvp:estEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1881-01-01</gvp:estEnd>
+    <gvp:estStart rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1824-01-01</gvp:estStart>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000005"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5500045343">
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Create"/>
+    <dc:type>created</dc:type>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1990-02-01T00:00:00</prov:startedAtTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/scopeNote/32668">
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000130"/>
+    <rdf:type rdf:resource="http://vocab.getty.edu/ontology#ScopeNote"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100042526-scopeNote-32668"/>
+    <rdf:value xml:lang="en">From 1841 to 1843 Street was a pupil of Owen Brown Carter, architect at Winchester, and in 1844 became his assistant. The same year, he moved to London and found a place in the office of George Gilbert Scott, where he worked with George Frederick Bodley and William White. Street established his own office in 1849. Between 1852 and 1862, he trained or employed Philips S. Webb, William Morris and R. Norman Shaw. Served as diocesan architect to Oxford from 1850 until his death in 1881, as well as to York, Winchester and Ripon. Architect of the Royal Courts of Justice (original design 1866-67; completed 1882). Elected an associate of the Royal Academy in 1866 and full member in 1871. Awarded the gold medal of the Royal Institute of British Architects in 1874. In 1881, served as president of the Royal Institute of British Architects and as professor of architecture at the Royal Academy. British architect.</rdf:value>
+    <dct:language rdf:resource="http://vocab.getty.edu/aat/300388277"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000007"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100153925"/>
+    <dc:identifier>32668</dc:identifier>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000008"/>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000124"/>
+    <dct:source rdf:resource="http://vocab.getty.edu/ulan/source/2100153972-scopeNote-32668"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/bio/4000213216">
+    <gvp:estStart rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1824-01-01</gvp:estStart>
+    <gvp:estEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1881-01-01</gvp:estEnd>
+    <schema:gender rdf:resource="http://vocab.getty.edu/aat/300189559"/>
+    <schema:deathPlace rdf:resource="http://vocab.getty.edu/tgn/7011781-place"/>
+    <rdf:type rdf:resource="http://vocab.getty.edu/ontology#Biography"/>
+    <schema:description>English architect, 1824-1881</schema:description>
+    <dct:contributor rdf:resource="http://vocab.getty.edu/ulan/contrib/2500000013"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/ulan/rev/5500045345">
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+    <dc:type>created</dc:type>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Create"/>
+    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1989-12-22T00:00:00</prov:startedAtTime>
+  </rdf:Description>
+</rdf:RDF>
