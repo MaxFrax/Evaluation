@@ -1,15 +1,16 @@
-import xml.etree.cElementTree as ElementTree
+import importlib as imp
 import rdflib
 import os
 import csv
 
-# Transforming xml from yale to a list of people URIs
-root = ElementTree.parse("./people_lists/P4169_britishart_yale.xml").getroot()
+selected_database = "P4169_britishart_yale"
 
-peopleURIs = list(map(lambda x: x[0][0].text, root[1]))
+# Getting list of URIs for selected database, this formatted list should be stored
+database = imp.import_module("raw_people_lists.%s.getter" % selected_database)
+peopleURIs = database.get_people_list()
 
 # Prints the count of people retrieved
-print "Items count: ", len(peopleURIs)
+print("Items count: ", len(peopleURIs))
 
 # Intersection set initialization
 propertiesUsageCount = dict()
@@ -21,10 +22,10 @@ if not os.path.exists("./cache/P4169_britishart_yale"):
 listDir = os.listdir("./cache/P4169_britishart_yale")
 
 # Download all the graphs
-print "Downloading info..."
+print("Downloading info...")
 for personURI in peopleURIs:
     iterator += 1
-    print "%s/%s" % (iterator, len(peopleURIs))
+    print("%s/%s" % (iterator, len(peopleURIs)))
     try:
         path = personURI.replace("/", "")
         # Downloads all the URIs not already downloaded
@@ -34,14 +35,14 @@ for personURI in peopleURIs:
             path = "cache/P4169_britishart_yale/" + path
             g.serialize(destination=path)
     except:
-        print "Failed download: %s" % personURI
+        print("Failed download: %s" % personURI)
 
 iterator = 0
 
 # Count the properties usage
 for personURI in listDir:
     iterator += 1
-    print "%s/%s\t%s" % (iterator, len(listDir), listDir[iterator - 1])
+    print("%s/%s\t%s" % (iterator, len(listDir), listDir[iterator - 1]))
     try:
         g = rdflib.Graph()
         g.load("cache/P4169_britishart_yale/" + personURI)
@@ -52,7 +53,7 @@ for personURI in listDir:
             else:
                 propertiesUsageCount[p] = 1
     except:
-        print "Failed file: %s" % personURI
+        print("Failed file: %s" % personURI)
 
 # Writes properties usage to csv file
 if not os.path.exists("./properties_coverage/"):
