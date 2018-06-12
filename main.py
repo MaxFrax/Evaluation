@@ -55,7 +55,9 @@ for personURI in listDir:
         print "Failed file: %s" % personURI
 
 # Writes properties usage to csv file
+if not os.path.exists("./properties_coverage/"):
+    os.makedirs("./properties_coverage/")
 with open("./properties_coverage/P4169_britishart_yale.csv", "wb") as f:
     w = csv.writer(f, delimiter=";")
     for key in propertiesUsageCount:
-        w.writerow([key, propertiesUsageCount[key]])
+        w.writerow([key, propertiesUsageCount[key], float(propertiesUsageCount[key]) / float(len(listDir))])

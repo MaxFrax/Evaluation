@@ -172,3 +172,4 @@ venv.bak/
 # Project's folders ignored
 
 cache/
+properties_coverage/
