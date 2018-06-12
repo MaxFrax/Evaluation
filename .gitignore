@@ -168,3 +168,7 @@ venv.bak/
 
 
 # End of https://www.gitignore.io/api/python,pycharm
+
+# Project's folders ignored
+
+cache/

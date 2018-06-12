@@ -4,7 +4,7 @@ import os
 import csv
 
 # Transforming xml from yale to a list of people URIs
-root = ElementTree.parse("person-list.xml").getroot()
+root = ElementTree.parse("./people_lists/P4169_britishart_yale.xml").getroot()
 
 peopleURIs = list(map(lambda x: x[0][0].text, root[1]))
 
@@ -15,7 +15,10 @@ print "Items count: ", len(peopleURIs)
 propertiesUsageCount = dict()
 
 iterator = 0
-listDir = os.listdir("./Yale-Data")
+
+if not os.path.exists("./cache/P4169_britishart_yale"):
+    os.makedirs("./cache/P4169_britishart_yale")
+listDir = os.listdir("./cache/P4169_britishart_yale")
 
 # Download all the graphs
 print "Downloading info..."
@@ -28,45 +31,31 @@ for personURI in peopleURIs:
         if path not in listDir:
             g = rdflib.Graph()
             g.load(personURI)
-            path = "Yale-Data/" + path
+            path = "cache/P4169_britishart_yale/" + path
             g.serialize(destination=path)
     except:
         print "Failed download: %s" % personURI
 
 iterator = 0
 
-with open("people.csv", "wb") as f:
-    w = csv.writer(f, delimiter=";")
-
-    for personURI in listDir:
-        iterator += 1
-        print "%s/%s\t%s" % (iterator, len(listDir), listDir[iterator - 1])
-        try:
-            g = rdflib.Graph()
-            g.load("Yale-Data/" + personURI)
-            # Counts the usage of the properties
-            for _, p, _ in g:
-                if p in propertiesUsageCount:
-                    propertiesUsageCount[p] += 1
-                else:
-                    propertiesUsageCount[p] = 1
-        except:
-            print "Failed file: %s" % personURI
-
-        queryResult = g.query("""SELECT ?id ?fullName ?gender ?birth ?death ?nationality
-    WHERE {
-    ?id <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://erlangen-crm.org/current/E21_Person> .
-    ?id <http://www.w3.org/2004/02/skos/core#altLabel> ?fullname .
-    OPTIONAL { ?id <http://collection.britishmuseum.org/id/ontology/PX_gender> ?gender } .
-    OPTIONAL { ?id <http://erlangen-crm.org/current/P98i_was_born> ?birth } .
-    OPTIONAL { ?id <http://erlangen-crm.org/current/P100i_died_in> ?death } .
-    OPTIONAL { ?id <http://collection.britishmuseum.org/id/ontology/PX_nationality> ?nationality }
-    }""")
-        for result in queryResult:
-            w.writerow(result)
+# Count the properties usage
+for personURI in listDir:
+    iterator += 1
+    print "%s/%s\t%s" % (iterator, len(listDir), listDir[iterator - 1])
+    try:
+        g = rdflib.Graph()
+        g.load("cache/P4169_britishart_yale/" + personURI)
+        # Counts the usage of the properties
+        for _, p, _ in g:
+            if p in propertiesUsageCount:
+                propertiesUsageCount[p] += 1
+            else:
+                propertiesUsageCount[p] = 1
+    except:
+        print "Failed file: %s" % personURI
 
 # Writes properties usage to csv file
-with open("propertiesUsageCount.csv", "wb") as f:
+with open("./properties_coverage/P4169_britishart_yale.csv", "wb") as f:
     w = csv.writer(f, delimiter=";")
     for key in propertiesUsageCount:
         w.writerow([key, propertiesUsageCount[key]])
