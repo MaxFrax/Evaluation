@@ -31,4 +31,4 @@ def _write_list():
 
 def _read_list():
     with open(people_list_path, "r") as ppl:
-        return ppl.readlines()
+        return [item.replace("\n", "") for item in ppl.readlines()]
