@@ -23,7 +23,7 @@ This function must return a list of valid URI strings created from your raw list
 1. Put the file name into `config.py`
 1. Run `main.py`
 
-## Project Architecture (from usage standpoint)
+## Project Architecture
 Project entry point: `main.py`  
 Data source selection: `config.py`
 
@@ -39,6 +39,20 @@ This step happens inside `people_list.py`, it's triggered calling `get_people_li
 Basically from it reads from the `config.py` which `getter.py` module should be dinamically loaded.  
 Once loaded calls `getter.get_people_list()` and stores the common format list into `people_lists` folder. (to avoid useless computation in next runs)  
 All this stuff is done only if there is no list stored for the selected data source.
+
+### 3. Caching / Mirroring
+In this step each URI stored in the common format list for the selected data source is downloaded and stored.
+To be more precise, each URI not already stored. In fact this technique is extremely useful to save time on multiple runs.  
+The entities are stored into `cache/{selected_datasource_filename}/`.  
+This operation is defined into `cache.py`.
+
+### 4. Properties coverage computation
+Iterates over the cached entities and keeps a dictionary `property - usage_count`.  
+Then the ration with the entity count is made and all this information is written into `properties_coverage/{selected_datasource_filename}.csv` . 
+This step is defined into `people_list.py`.
+
+### Cleaning
+If you want to remove all the intermediate computation stored to do a clean run, remove `cache`, `people_lists` and `properties_coverage` folders.
 
 ## TODO
 • Improve feedback on what's happening while the script is executing
