@@ -27,6 +27,13 @@ This function must return a list of valid URI strings created from your raw list
 Project entry point: `main.py`  
 Data source selection: `config.py`
 
+### 1. Raw entities list
+Is the first state of the process.  
+Basically you give a whatever format list, with valid URIs.
+
+With a dynamic module loading architecture, you define how your file format becomes a list of URI strings.  
+The definition is given by you into `getter.py`, as described in **Getting Started**.
+
 
 ## TODO
 • Improve feedback on what's happening while the script is executing
