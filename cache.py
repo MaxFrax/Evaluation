@@ -10,10 +10,7 @@ database_cache_path = "%s%s/" % (cache_folder_path, selected_database)
 
 
 def download_people_list():
-    if not os.path.exists(cache_folder_path):
-        os.makedirs(cache_folder_path)
-    if not os.path.exists(database_cache_path):
-        os.makedirs(database_cache_path)
+    _check_folder_existence()
 
     cached_items = set(os.listdir(database_cache_path))
     people_uris = people_list.get_people_list()
@@ -28,4 +25,14 @@ def download_people_list():
             g.serialize(person_path)
 
 
+def get_people_paths():
+    _check_folder_existence()
+    people = os.listdir(database_cache_path)
+    return ["%s%s" % (database_cache_path, person) for person in people]
 
+
+def _check_folder_existence():
+    if not os.path.exists(cache_folder_path):
+        os.makedirs(cache_folder_path)
+    if not os.path.exists(database_cache_path):
+        os.makedirs(database_cache_path)
