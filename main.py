@@ -3,12 +3,11 @@ import rdflib
 import os
 import csv
 import config
+import people_list
 
 selected_database = config.get_selected_database()
 
-# Getting list of URIs for selected database, this formatted list should be stored
-database = imp.import_module("raw_people_lists.%s.getter" % selected_database)
-peopleURIs = database.get_people_list()
+peopleURIs = people_list.get_people_list()
 
 # Prints the count of people retrieved
 print("Items count: ", len(peopleURIs))
