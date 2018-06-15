@@ -34,6 +34,11 @@ Basically you give a whatever format list, with valid URIs.
 With a dynamic module loading architecture, you define how your file format becomes a list of URI strings.  
 The definition is given by you into `getter.py`, as described in **Getting Started**.
 
+### 2. Common format entities list
+This step happens inside `people_list.py`, it's triggered calling `get_people_list()`.  
+Basically from it reads from the `config.py` which `getter.py` module should be dinamically loaded.  
+Once loaded calls `getter.get_people_list()` and stores the common format list into `people_lists` folder. (to avoid useless computation in next runs)  
+All this stuff is done only if there is no list stored for the selected data source.
 
 ## TODO
 • Improve feedback on what's happening while the script is executing
