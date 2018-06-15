@@ -59,7 +59,7 @@ for personURI in listDir:
 # Writes properties usage to csv file
 if not os.path.exists("./properties_coverage/"):
     os.makedirs("./properties_coverage/")
-with open("./properties_coverage/%s" % selected_database, "wb") as f:
+with open("./properties_coverage/%s.csv" % selected_database, "w") as f:
     w = csv.writer(f, delimiter=";")
     for key in propertiesUsageCount:
         w.writerow([key, propertiesUsageCount[key], float(propertiesUsageCount[key]) / float(len(listDir))])
